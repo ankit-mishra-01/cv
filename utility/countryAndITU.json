@@ -1,0 +1,922 @@
+[
+ {
+  "country": "Afghanistan",
+  "ITU": "+93"
+ },
+ {
+  "country": "Albania",
+  "ITU": "+355"
+ },
+ {
+  "country": "Algeria",
+  "ITU": "+213"
+ },
+ {
+  "country": "American Samoa",
+  "ITU": "+1 684"
+ },
+ {
+  "country": "Andorra",
+  "ITU": "+376"
+ },
+ {
+  "country": "Angola",
+  "ITU": "+244"
+ },
+ {
+  "country": "Anguilla",
+  "ITU": "+1 264"
+ },
+ {
+  "country": "Antigua and Barbuda",
+  "ITU": "+1 268"
+ },
+ {
+  "country": "Argentina",
+  "ITU": "+54"
+ },
+ {
+  "country": "Armenia",
+  "ITU": "+374"
+ },
+ {
+  "country": "Aruba",
+  "ITU": "+297"
+ },
+ {
+  "country": "Australia",
+  "ITU": "+61"
+ },
+ {
+  "country": "Austria",
+  "ITU": "+43"
+ },
+ {
+  "country": "Azerbaijan",
+  "ITU": "+994"
+ },
+ {
+  "country": "Bahamas",
+  "ITU": "+1 242"
+ },
+ {
+  "country": "Bahrain",
+  "ITU": "+973"
+ },
+ {
+  "country": "Bangladesh",
+  "ITU": "+880"
+ },
+ {
+  "country": "Barbados",
+  "ITU": "+1 246"
+ },
+ {
+  "country": "Belarus",
+  "ITU": "+375"
+ },
+ {
+  "country": "Belgium",
+  "ITU": "+32"
+ },
+ {
+  "country": "Belize",
+  "ITU": "+501"
+ },
+ {
+  "country": "Benin",
+  "ITU": "+229"
+ },
+ {
+  "country": "Bermuda",
+  "ITU": "+1 441"
+ },
+ {
+  "country": "Bhutan",
+  "ITU": "+975"
+ },
+ {
+  "country": "Bolivia",
+  "ITU": "+591"
+ },
+ {
+  "country": "Bonaire, Sint Eustatius and Saba",
+  "ITU": "+599"
+ },
+ {
+  "country": "Bosnia and Herzegovina",
+  "ITU": "+387"
+ },
+ {
+  "country": "Botswana",
+  "ITU": "+267"
+ },
+ {
+  "country": "Brazil",
+  "ITU": "+55"
+ },
+ {
+  "country": "British Virgin Islands",
+  "ITU": "+1 284"
+ },
+ {
+  "country": "Brunei Darussalam",
+  "ITU": "+673"
+ },
+ {
+  "country": "Bulgaria",
+  "ITU": "+359"
+ },
+ {
+  "country": "Burkina Faso",
+  "ITU": "+226"
+ },
+ {
+  "country": "Burundi",
+  "ITU": "+257"
+ },
+ {
+  "country": "Cabo Verde",
+  "ITU": "+238"
+ },
+ {
+  "country": "Cambodia",
+  "ITU": "+855"
+ },
+ {
+  "country": "Cameroon",
+  "ITU": "+237"
+ },
+ {
+  "country": "Canada",
+  "ITU": "+1"
+ },
+ {
+  "country": "Cayman Islands",
+  "ITU": "+1 345"
+ },
+ {
+  "country": "Central African Rep",
+  "ITU": "+236"
+ },
+ {
+  "country": "Chad",
+  "ITU": "+235"
+ },
+ {
+  "country": "Chile",
+  "ITU": "+56"
+ },
+ {
+  "country": "China",
+  "ITU": "+86"
+ },
+ {
+  "country": "Colombia",
+  "ITU": "+57"
+ },
+ {
+  "country": "Comoros",
+  "ITU": "+269"
+ },
+ {
+  "country": "Congo (Rep. of the)",
+  "ITU": "+242"
+ },
+ {
+  "country": "Cook Islands",
+  "ITU": "+682"
+ },
+ {
+  "country": "Costa Rica",
+  "ITU": "+506"
+ },
+ {
+  "country": "Côte d'Ivoire",
+  "ITU": "+225"
+ },
+ {
+  "country": "Croatia",
+  "ITU": "+385"
+ },
+ {
+  "country": "Cuba",
+  "ITU": "+53"
+ },
+ {
+  "country": "Curaçao",
+  "ITU": "+599"
+ },
+ {
+  "country": "Cyprus",
+  "ITU": "+357"
+ },
+ {
+  "country": "Czech Rep",
+  "ITU": "+420"
+ },
+ {
+  "country": "Dem. People's Rep. of Korea",
+  "ITU": "+850"
+ },
+ {
+  "country": "Dem. Rep. of the Congo",
+  "ITU": "+243"
+ },
+ {
+  "country": "Denmark",
+  "ITU": "+45"
+ },
+ {
+  "country": "Diego Garcia",
+  "ITU": "+246"
+ },
+ {
+  "country": "Djibouti",
+  "ITU": "+253"
+ },
+ {
+  "country": "Dominica",
+  "ITU": "+1 767"
+ },
+ {
+  "country": "Dominican Rep",
+  "ITU": "+1 809, +1 829, +1 849"
+ },
+ {
+  "country": "Ecuador",
+  "ITU": "+593"
+ },
+ {
+  "country": "Egypt",
+  "ITU": "+20"
+ },
+ {
+  "country": "El Salvador",
+  "ITU": "+503"
+ },
+ {
+  "country": "Equatorial Guinea",
+  "ITU": "+240"
+ },
+ {
+  "country": "Eritrea",
+  "ITU": "+291"
+ },
+ {
+  "country": "Estonia",
+  "ITU": "+372"
+ },
+ {
+  "country": "Eswatini",
+  "ITU": "+268"
+ },
+ {
+  "country": "Ethiopia",
+  "ITU": "+251"
+ },
+ {
+  "country": "Falkland Islands (Malvinas)",
+  "ITU": "+500"
+ },
+ {
+  "country": "Faroe Islands",
+  "ITU": "+298"
+ },
+ {
+  "country": "Fiji",
+  "ITU": "+679"
+ },
+ {
+  "country": "Finland",
+  "ITU": "+358"
+ },
+ {
+  "country": "France",
+  "ITU": "+33"
+ },
+ {
+  "country": "French Departments and Territories in the Indian Ocean",
+  "ITU": "+262"
+ },
+ {
+  "country": "French Guiana",
+  "ITU": "+594"
+ },
+ {
+  "country": "French Polynesia",
+  "ITU": "+689"
+ },
+ {
+  "country": "Gabon",
+  "ITU": "+241"
+ },
+ {
+  "country": "Gambia",
+  "ITU": "+220"
+ },
+ {
+  "country": "Georgia",
+  "ITU": "+995"
+ },
+ {
+  "country": "Germany",
+  "ITU": "+49"
+ },
+ {
+  "country": "Ghana",
+  "ITU": "+233"
+ },
+ {
+  "country": "Gibraltar",
+  "ITU": "+350"
+ },
+ {
+  "country": "Greece",
+  "ITU": "+30"
+ },
+ {
+  "country": "Greenland",
+  "ITU": "+299"
+ },
+ {
+  "country": "Grenada",
+  "ITU": "+1 473"
+ },
+ {
+  "country": "Guadeloupe",
+  "ITU": "+590"
+ },
+ {
+  "country": "Guam",
+  "ITU": "+1 671"
+ },
+ {
+  "country": "Guatemala",
+  "ITU": "+502"
+ },
+ {
+  "country": "Guinea",
+  "ITU": "+224"
+ },
+ {
+  "country": "Guinea-Bissau",
+  "ITU": "+245"
+ },
+ {
+  "country": "Guyana",
+  "ITU": "+592"
+ },
+ {
+  "country": "Haiti",
+  "ITU": "+509"
+ },
+ {
+  "country": "Honduras",
+  "ITU": "+504"
+ },
+ {
+  "country": "Hong Kong, China",
+  "ITU": "+852"
+ },
+ {
+  "country": "Hungary",
+  "ITU": "+36"
+ },
+ {
+  "country": "Iceland",
+  "ITU": "+354"
+ },
+ {
+  "country": "India",
+  "ITU": "+91"
+ },
+ {
+  "country": "Indonesia",
+  "ITU": "+62"
+ },
+ {
+  "country": "Iran (Islamic Republic of)",
+  "ITU": "+98"
+ },
+ {
+  "country": "Iraq",
+  "ITU": "+964"
+ },
+ {
+  "country": "Ireland",
+  "ITU": "+353"
+ },
+ {
+  "country": "Israel",
+  "ITU": "+972"
+ },
+ {
+  "country": "Italy",
+  "ITU": "+39"
+ },
+ {
+  "country": "Jamaica",
+  "ITU": "+1 876, +1 658"
+ },
+ {
+  "country": "Japan",
+  "ITU": "+81"
+ },
+ {
+  "country": "Jordan",
+  "ITU": "+962"
+ },
+ {
+  "country": "Kazakhstan",
+  "ITU": "+7"
+ },
+ {
+  "country": "Kenya",
+  "ITU": "+254"
+ },
+ {
+  "country": "Kiribati",
+  "ITU": "+686"
+ },
+ {
+  "country": "Korea (Rep. of)",
+  "ITU": "+82"
+ },
+ {
+  "country": "Kosovo",
+  "ITU": "+383"
+ },
+ {
+  "country": "Kuwait",
+  "ITU": "+965"
+ },
+ {
+  "country": "Kyrgyzstan",
+  "ITU": "+996"
+ },
+ {
+  "country": "Lao P.D.R",
+  "ITU": "+856"
+ },
+ {
+  "country": "Latvia",
+  "ITU": "+371"
+ },
+ {
+  "country": "Lebanon",
+  "ITU": "+961"
+ },
+ {
+  "country": "Lesotho",
+  "ITU": "+266"
+ },
+ {
+  "country": "Liberia",
+  "ITU": "+231"
+ },
+ {
+  "country": "Libya",
+  "ITU": "+218"
+ },
+ {
+  "country": "Liechtenstein",
+  "ITU": "+423"
+ },
+ {
+  "country": "Lithuania",
+  "ITU": "+370"
+ },
+ {
+  "country": "Luxembourg",
+  "ITU": "+352"
+ },
+ {
+  "country": "Macao, China",
+  "ITU": "+853"
+ },
+ {
+  "country": "Madagascar",
+  "ITU": "+261"
+ },
+ {
+  "country": "Malawi",
+  "ITU": "+265"
+ },
+ {
+  "country": "Malaysia",
+  "ITU": "+60"
+ },
+ {
+  "country": "Maldives",
+  "ITU": "+960"
+ },
+ {
+  "country": "Mali",
+  "ITU": "+223"
+ },
+ {
+  "country": "Malta",
+  "ITU": "+356"
+ },
+ {
+  "country": "Marshall Islands",
+  "ITU": "+692"
+ },
+ {
+  "country": "Martinique",
+  "ITU": "+596"
+ },
+ {
+  "country": "Mauritania",
+  "ITU": "+222"
+ },
+ {
+  "country": "Mauritius",
+  "ITU": "+230"
+ },
+ {
+  "country": "Mexico",
+  "ITU": "+52"
+ },
+ {
+  "country": "Micronesia",
+  "ITU": "+691"
+ },
+ {
+  "country": "Moldova",
+  "ITU": "+373"
+ },
+ {
+  "country": "Monaco",
+  "ITU": "+377"
+ },
+ {
+  "country": "Mongolia",
+  "ITU": "+976"
+ },
+ {
+  "country": "Montenegro",
+  "ITU": "+382"
+ },
+ {
+  "country": "Montserrat",
+  "ITU": "+1 664"
+ },
+ {
+  "country": "Morocco",
+  "ITU": "+212"
+ },
+ {
+  "country": "Mozambique",
+  "ITU": "+258"
+ },
+ {
+  "country": "Myanmar",
+  "ITU": "+95"
+ },
+ {
+  "country": "Namibia",
+  "ITU": "+264"
+ },
+ {
+  "country": "Nauru",
+  "ITU": "+674"
+ },
+ {
+  "country": "Nepal",
+  "ITU": "+977"
+ },
+ {
+  "country": "Netherlands",
+  "ITU": "+31"
+ },
+ {
+  "country": "New Caledonia",
+  "ITU": "+687"
+ },
+ {
+  "country": "New Zealand",
+  "ITU": "+64"
+ },
+ {
+  "country": "Nicaragua",
+  "ITU": "+505"
+ },
+ {
+  "country": "Niger",
+  "ITU": "+227"
+ },
+ {
+  "country": "Nigeria",
+  "ITU": "+234"
+ },
+ {
+  "country": "Niue",
+  "ITU": "+683"
+ },
+ {
+  "country": "Norfolk Island",
+  "ITU": "+672"
+ },
+ {
+  "country": "North Macedonia",
+  "ITU": "+389"
+ },
+ {
+  "country": "Northern Mariana Islands",
+  "ITU": "+1 670"
+ },
+ {
+  "country": "Norway",
+  "ITU": "+47"
+ },
+ {
+  "country": "Oman",
+  "ITU": "+968"
+ },
+ {
+  "country": "Pakistan",
+  "ITU": "+92"
+ },
+ {
+  "country": "Palau",
+  "ITU": "+680"
+ },
+ {
+  "country": "Panama",
+  "ITU": "+507"
+ },
+ {
+  "country": "Papua New Guinea",
+  "ITU": "+675"
+ },
+ {
+  "country": "Paraguay",
+  "ITU": "+595"
+ },
+ {
+  "country": "Peru",
+  "ITU": "+51"
+ },
+ {
+  "country": "Philippines",
+  "ITU": "+63"
+ },
+ {
+  "country": "Poland",
+  "ITU": "+48"
+ },
+ {
+  "country": "Portugal",
+  "ITU": "+351"
+ },
+ {
+  "country": "Puerto Rico",
+  "ITU": "+1 787, +1 939"
+ },
+ {
+  "country": "Qatar",
+  "ITU": "+974"
+ },
+ {
+  "country": "Romania",
+  "ITU": "+40"
+ },
+ {
+  "country": "Russian Federation",
+  "ITU": "+7"
+ },
+ {
+  "country": "Rwanda",
+  "ITU": "+250"
+ },
+ {
+  "country": "Saint Helena, Ascension and Tristan da Cunha",
+  "ITU": "+290, +247"
+ },
+ {
+  "country": "Saint Kitts and Nevis",
+  "ITU": "+1 869"
+ },
+ {
+  "country": "Saint Lucia",
+  "ITU": "+1 758"
+ },
+ {
+  "country": "Saint Pierre and Miquelon",
+  "ITU": "+508"
+ },
+ {
+  "country": "Saint Vincent and the Grenadines",
+  "ITU": "+1 784"
+ },
+ {
+  "country": "Samoa",
+  "ITU": "+685"
+ },
+ {
+  "country": "San Marino",
+  "ITU": "+378"
+ },
+ {
+  "country": "Sao Tome and Principe",
+  "ITU": "+239"
+ },
+ {
+  "country": "Saudi Arabia",
+  "ITU": "+966"
+ },
+ {
+  "country": "Senegal",
+  "ITU": "+221"
+ },
+ {
+  "country": "Serbia",
+  "ITU": "+381"
+ },
+ {
+  "country": "Seychelles",
+  "ITU": "+248"
+ },
+ {
+  "country": "Sierra Leone",
+  "ITU": "+232"
+ },
+ {
+  "country": "Singapore",
+  "ITU": "+65"
+ },
+ {
+  "country": "Sint Maarten (Dutch part)",
+  "ITU": "+1 721"
+ },
+ {
+  "country": "Slovakia",
+  "ITU": "+421"
+ },
+ {
+  "country": "Slovenia",
+  "ITU": "+386"
+ },
+ {
+  "country": "Solomon Islands",
+  "ITU": "+677"
+ },
+ {
+  "country": "Somalia",
+  "ITU": "+252"
+ },
+ {
+  "country": "South Africa",
+  "ITU": "+27"
+ },
+ {
+  "country": "South Sudan",
+  "ITU": "+211"
+ },
+ {
+  "country": "Spain",
+  "ITU": "+34"
+ },
+ {
+  "country": "Sri Lanka",
+  "ITU": "+94"
+ },
+ {
+  "country": "Sudan",
+  "ITU": "+249"
+ },
+ {
+  "country": "Suriname",
+  "ITU": "+597"
+ },
+ {
+  "country": "Sweden",
+  "ITU": "+46"
+ },
+ {
+  "country": "Switzerland",
+  "ITU": "+41"
+ },
+ {
+  "country": "Syrian Arab Republic",
+  "ITU": "+963"
+ },
+ {
+  "country": "Taiwan, China",
+  "ITU": "+886"
+ },
+ {
+  "country": "Tajikistan",
+  "ITU": "+992"
+ },
+ {
+  "country": "Tanzania",
+  "ITU": "+255"
+ },
+ {
+  "country": "Thailand",
+  "ITU": "+66"
+ },
+ {
+  "country": "Timor-Leste",
+  "ITU": "+670"
+ },
+ {
+  "country": "Togo",
+  "ITU": "+228"
+ },
+ {
+  "country": "Tokelau",
+  "ITU": "+690"
+ },
+ {
+  "country": "Tonga",
+  "ITU": "+676"
+ },
+ {
+  "country": "Trinidad and Tobago",
+  "ITU": "+1 868"
+ },
+ {
+  "country": "Tunisia",
+  "ITU": "+216"
+ },
+ {
+  "country": "Türkiye",
+  "ITU": "+90"
+ },
+ {
+  "country": "Turkmenistan",
+  "ITU": "+993"
+ },
+ {
+  "country": "Turks and Caicos",
+  "ITU": "+1 649"
+ },
+ {
+  "country": "Tuvalu",
+  "ITU": "+688"
+ },
+ {
+  "country": "Uganda",
+  "ITU": "+256"
+ },
+ {
+  "country": "Ukraine",
+  "ITU": "+380"
+ },
+ {
+  "country": "United Arab Emirates",
+  "ITU": "+971"
+ },
+ {
+  "country": "United Kingdom",
+  "ITU": "+44"
+ },
+ {
+  "country": "United States",
+  "ITU": "+1"
+ },
+ {
+  "country": "United States Virgin Islands",
+  "ITU": "+1 340"
+ },
+ {
+  "country": "Uruguay",
+  "ITU": "+598"
+ },
+ {
+  "country": "Uzbekistan",
+  "ITU": "+998"
+ },
+ {
+  "country": "Vanuatu",
+  "ITU": "+678"
+ },
+ {
+  "country": "Venezuela",
+  "ITU": "+58"
+ },
+ {
+  "country": "Viet Nam",
+  "ITU": "+84"
+ },
+ {
+  "country": "Wallis and Futuna",
+  "ITU": "+681"
+ },
+ {
+  "country": "Yemen",
+  "ITU": "+967"
+ },
+ {
+  "country": "Zambia",
+  "ITU": "+260"
+ },
+ {
+  "country": "Zimbabwe",
+  "ITU": "+263"
+ }
+]

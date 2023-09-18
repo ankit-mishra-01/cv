@@ -1,0 +1,2408 @@
+[
+ {
+  "Country Name": "AFGHANISTAN",
+  "ISO (2-alpha)": "AF",
+  "ISO2 (3-Alpha)": "AFG",
+  "IANA Internet": ".af",
+  "UN Vehicle": "AFG",
+  "IOC Olympic": "AFG",
+  "UN\/ISO Numeric": 4,
+  "ITU Calling": 93
+ },
+ {
+  "Country Name": "ÅLAND ISLANDS",
+  "ISO (2-alpha)": "AX",
+  "ISO2 (3-Alpha)": "ALA",
+  "IANA Internet": ".ax",
+  "UN\/ISO Numeric": 248
+ },
+ {
+  "Country Name": "ALBANIA",
+  "ISO (2-alpha)": "AL",
+  "ISO2 (3-Alpha)": "ALB",
+  "IANA Internet": ".al",
+  "UN Vehicle": "AL",
+  "IOC Olympic": "ALB",
+  "UN\/ISO Numeric": 8,
+  "ITU Calling": 355
+ },
+ {
+  "Country Name": "ALDERNEY",
+  "UN Vehicle": "GBA"
+ },
+ {
+  "Country Name": "ALGERIA (El Djazaïr)",
+  "ISO (2-alpha)": "DZ",
+  "ISO2 (3-Alpha)": "DZA",
+  "IANA Internet": ".dz",
+  "UN Vehicle": "DZ",
+  "IOC Olympic": "ALG",
+  "UN\/ISO Numeric": 12,
+  "ITU Calling": 213
+ },
+ {
+  "Country Name": "AMERICAN SAMOA",
+  "ISO (2-alpha)": "AS",
+  "ISO2 (3-Alpha)": "ASM",
+  "IANA Internet": ".as",
+  "IOC Olympic": "ASA",
+  "UN\/ISO Numeric": 16,
+  "ITU Calling": "1-684"
+ },
+ {
+  "Country Name": "ANDORRA",
+  "ISO (2-alpha)": "AD",
+  "ISO2 (3-Alpha)": "AND",
+  "IANA Internet": ".ad",
+  "UN Vehicle": "AND",
+  "IOC Olympic": "AND",
+  "UN\/ISO Numeric": 20,
+  "ITU Calling": 376
+ },
+ {
+  "Country Name": "ANGOLA",
+  "ISO (2-alpha)": "AO",
+  "ISO2 (3-Alpha)": "AGO",
+  "IANA Internet": ".ao",
+  "IOC Olympic": "ANG",
+  "UN\/ISO Numeric": 24,
+  "ITU Calling": 244
+ },
+ {
+  "Country Name": "ANGUILLA",
+  "ISO (2-alpha)": "AI",
+  "ISO2 (3-Alpha)": "AIA",
+  "IANA Internet": ".ai",
+  "UN\/ISO Numeric": 660,
+  "ITU Calling": "1-264"
+ },
+ {
+  "Country Name": "ANTARCTICA",
+  "ISO (2-alpha)": "AQ",
+  "ISO2 (3-Alpha)": "ATA",
+  "IANA Internet": ".aq",
+  "UN\/ISO Numeric": 10
+ },
+ {
+  "Country Name": "ANTIGUA AND BARBUDA",
+  "ISO (2-alpha)": "AG",
+  "ISO2 (3-Alpha)": "ATG",
+  "IANA Internet": ".ag",
+  "IOC Olympic": "ANT",
+  "UN\/ISO Numeric": 28,
+  "ITU Calling": "1-268"
+ },
+ {
+  "Country Name": "ARGENTINA",
+  "ISO (2-alpha)": "AR",
+  "ISO2 (3-Alpha)": "ARG",
+  "IANA Internet": ".ar",
+  "UN Vehicle": "RA",
+  "IOC Olympic": "ARG",
+  "UN\/ISO Numeric": 32,
+  "ITU Calling": 54
+ },
+ {
+  "Country Name": "ARMENIA",
+  "ISO (2-alpha)": "AM",
+  "ISO2 (3-Alpha)": "ARM",
+  "IANA Internet": ".am",
+  "UN Vehicle": "AM",
+  "IOC Olympic": "ARM",
+  "UN\/ISO Numeric": 51,
+  "ITU Calling": 374
+ },
+ {
+  "Country Name": "ARUBA",
+  "ISO (2-alpha)": "AW",
+  "ISO2 (3-Alpha)": "ABW",
+  "IANA Internet": ".aw",
+  "IOC Olympic": "ARU",
+  "UN\/ISO Numeric": 533,
+  "ITU Calling": 297
+ },
+ {
+  "Country Name": "ASCENSION ISLAND",
+  "IANA Internet": ".ac",
+  "ITU Calling": 247
+ },
+ {
+  "Country Name": "AUSTRALIA",
+  "ISO (2-alpha)": "AU",
+  "ISO2 (3-Alpha)": "AUS",
+  "IANA Internet": ".au",
+  "UN Vehicle": "AUS",
+  "IOC Olympic": "AUS",
+  "UN\/ISO Numeric": 36,
+  "ITU Calling": 61
+ },
+ {
+  "Country Name": "AUSTRIA",
+  "ISO (2-alpha)": "AT",
+  "ISO2 (3-Alpha)": "AUT",
+  "IANA Internet": ".at",
+  "UN Vehicle": "A",
+  "IOC Olympic": "AUT",
+  "UN\/ISO Numeric": 40,
+  "ITU Calling": 43
+ },
+ {
+  "Country Name": "AZERBAIJAN",
+  "ISO (2-alpha)": "AZ",
+  "ISO2 (3-Alpha)": "AZE",
+  "IANA Internet": ".az",
+  "UN Vehicle": "AZ",
+  "IOC Olympic": "AZE",
+  "UN\/ISO Numeric": 31,
+  "ITU Calling": 994
+ },
+ {
+  "Country Name": "BAHAMAS",
+  "ISO (2-alpha)": "BS",
+  "ISO2 (3-Alpha)": "BHS",
+  "IANA Internet": ".bs",
+  "UN Vehicle": "BS",
+  "IOC Olympic": "BAH",
+  "UN\/ISO Numeric": 44,
+  "ITU Calling": "1-242"
+ },
+ {
+  "Country Name": "BAHRAIN",
+  "ISO (2-alpha)": "BH",
+  "ISO2 (3-Alpha)": "BHR",
+  "IANA Internet": ".bh",
+  "UN Vehicle": "BRN",
+  "IOC Olympic": "BRN",
+  "UN\/ISO Numeric": 48,
+  "ITU Calling": 973
+ },
+ {
+  "Country Name": "BANGLADESH",
+  "ISO (2-alpha)": "BD",
+  "ISO2 (3-Alpha)": "BGD",
+  "IANA Internet": ".bd",
+  "UN Vehicle": "BD",
+  "IOC Olympic": "BAN",
+  "UN\/ISO Numeric": 50,
+  "ITU Calling": 880
+ },
+ {
+  "Country Name": "BARBADOS",
+  "ISO (2-alpha)": "BB",
+  "ISO2 (3-Alpha)": "BRB",
+  "IANA Internet": ".bb",
+  "UN Vehicle": "BDS",
+  "IOC Olympic": "BAR",
+  "UN\/ISO Numeric": 52,
+  "ITU Calling": "1-246"
+ },
+ {
+  "Country Name": "BELARUS",
+  "ISO (2-alpha)": "BY",
+  "ISO2 (3-Alpha)": "BLR",
+  "IANA Internet": ".by",
+  "UN Vehicle": "BY",
+  "IOC Olympic": "BLR",
+  "UN\/ISO Numeric": 112,
+  "ITU Calling": 375
+ },
+ {
+  "Country Name": "BELGIUM",
+  "ISO (2-alpha)": "BE",
+  "ISO2 (3-Alpha)": "BEL",
+  "IANA Internet": ".be",
+  "UN Vehicle": "B",
+  "IOC Olympic": "BEL",
+  "UN\/ISO Numeric": 56,
+  "ITU Calling": 32
+ },
+ {
+  "Country Name": "BELIZE",
+  "ISO (2-alpha)": "BZ",
+  "ISO2 (3-Alpha)": "BLZ",
+  "IANA Internet": ".bz",
+  "UN Vehicle": "BH",
+  "IOC Olympic": "BIZ",
+  "UN\/ISO Numeric": 84,
+  "ITU Calling": 501
+ },
+ {
+  "Country Name": "BENIN",
+  "ISO (2-alpha)": "BJ",
+  "ISO2 (3-Alpha)": "BEN",
+  "IANA Internet": ".bj",
+  "UN Vehicle": "DY",
+  "IOC Olympic": "BEN",
+  "UN\/ISO Numeric": 204,
+  "ITU Calling": 229
+ },
+ {
+  "Country Name": "BERMUDA",
+  "ISO (2-alpha)": "BM",
+  "ISO2 (3-Alpha)": "BMU",
+  "IANA Internet": ".bm",
+  "IOC Olympic": "BER",
+  "UN\/ISO Numeric": 60,
+  "ITU Calling": "1-441"
+ },
+ {
+  "Country Name": "BHUTAN",
+  "ISO (2-alpha)": "BT",
+  "ISO2 (3-Alpha)": "BTN",
+  "IANA Internet": ".bt",
+  "IOC Olympic": "BHU",
+  "UN\/ISO Numeric": 64,
+  "ITU Calling": 975
+ },
+ {
+  "Country Name": "BOLIVIA",
+  "ISO (2-alpha)": "BO",
+  "ISO2 (3-Alpha)": "BOL",
+  "IANA Internet": ".bo",
+  "UN Vehicle": "BOL",
+  "IOC Olympic": "BOL",
+  "UN\/ISO Numeric": 68,
+  "ITU Calling": 591
+ },
+ {
+  "Country Name": "BONAIRE, ST. EUSTATIUS, AND SABA",
+  "ISO (2-alpha)": "BQ",
+  "ISO2 (3-Alpha)": "BES",
+  "IANA Internet": ".bq",
+  "UN\/ISO Numeric": 535,
+  "ITU Calling": 599
+ },
+ {
+  "Country Name": "BOSNIA AND HERZEGOVINA",
+  "ISO (2-alpha)": "BA",
+  "ISO2 (3-Alpha)": "BIH",
+  "IANA Internet": ".ba",
+  "UN Vehicle": "BIH",
+  "IOC Olympic": "BIH",
+  "UN\/ISO Numeric": 70,
+  "ITU Calling": 387
+ },
+ {
+  "Country Name": "BOTSWANA",
+  "ISO (2-alpha)": "BW",
+  "ISO2 (3-Alpha)": "BWA",
+  "IANA Internet": ".bw",
+  "UN Vehicle": "BW",
+  "IOC Olympic": "BOT",
+  "UN\/ISO Numeric": 72,
+  "ITU Calling": 267
+ },
+ {
+  "Country Name": "BOUVET ISLAND",
+  "ISO (2-alpha)": "BV",
+  "ISO2 (3-Alpha)": "BVT",
+  "IANA Internet": ".bv",
+  "UN\/ISO Numeric": 74
+ },
+ {
+  "Country Name": "BRAZIL",
+  "ISO (2-alpha)": "BR",
+  "ISO2 (3-Alpha)": "BRA",
+  "IANA Internet": ".br",
+  "UN Vehicle": "BR",
+  "IOC Olympic": "BRA",
+  "UN\/ISO Numeric": 76,
+  "ITU Calling": 55
+ },
+ {
+  "Country Name": "BRITISH INDIAN OCEAN TERRITORY",
+  "ISO (2-alpha)": "IO",
+  "ISO2 (3-Alpha)": "IOT",
+  "IANA Internet": ".io",
+  "UN\/ISO Numeric": 86
+ },
+ {
+  "Country Name": "BRUNEI DARUSSALAM",
+  "ISO (2-alpha)": "BN",
+  "ISO2 (3-Alpha)": "BRN",
+  "IANA Internet": ".bn",
+  "UN Vehicle": "BRU",
+  "IOC Olympic": "BRU",
+  "UN\/ISO Numeric": 96,
+  "ITU Calling": 673
+ },
+ {
+  "Country Name": "BULGARIA",
+  "ISO (2-alpha)": "BG",
+  "ISO2 (3-Alpha)": "BGR",
+  "IANA Internet": ".bg",
+  "UN Vehicle": "BG",
+  "IOC Olympic": "BUL",
+  "UN\/ISO Numeric": 100,
+  "ITU Calling": 359
+ },
+ {
+  "Country Name": "BURKINA FASO",
+  "ISO (2-alpha)": "BF",
+  "ISO2 (3-Alpha)": "BFA",
+  "IANA Internet": ".bf",
+  "UN Vehicle": "BF",
+  "IOC Olympic": "BUR",
+  "UN\/ISO Numeric": 854,
+  "ITU Calling": 226
+ },
+ {
+  "Country Name": "BURUNDI",
+  "ISO (2-alpha)": "BI",
+  "ISO2 (3-Alpha)": "BDI",
+  "IANA Internet": ".bi",
+  "UN Vehicle": "RU",
+  "IOC Olympic": "BDI",
+  "UN\/ISO Numeric": 108,
+  "ITU Calling": 257
+ },
+ {
+  "Country Name": "CAMBODIA",
+  "ISO (2-alpha)": "KH",
+  "ISO2 (3-Alpha)": "KHM",
+  "IANA Internet": ".kh",
+  "UN Vehicle": "K",
+  "IOC Olympic": "CAM",
+  "UN\/ISO Numeric": 116,
+  "ITU Calling": 855
+ },
+ {
+  "Country Name": "CAMEROON",
+  "ISO (2-alpha)": "CM",
+  "ISO2 (3-Alpha)": "CMR",
+  "IANA Internet": ".cm",
+  "UN Vehicle": "CAM",
+  "IOC Olympic": "CMR",
+  "UN\/ISO Numeric": 120,
+  "ITU Calling": 237
+ },
+ {
+  "Country Name": "CANADA",
+  "ISO (2-alpha)": "CA",
+  "ISO2 (3-Alpha)": "CAN",
+  "IANA Internet": ".ca",
+  "UN Vehicle": "CDN",
+  "IOC Olympic": "CAN",
+  "UN\/ISO Numeric": 124,
+  "ITU Calling": 1
+ },
+ {
+  "Country Name": "CAPE VERDE",
+  "ISO (2-alpha)": "CV",
+  "ISO2 (3-Alpha)": "CPV",
+  "IANA Internet": ".cv",
+  "IOC Olympic": "CPV",
+  "UN\/ISO Numeric": 132,
+  "ITU Calling": 238
+ },
+ {
+  "Country Name": "CAYMAN ISLANDS",
+  "ISO (2-alpha)": "KY",
+  "ISO2 (3-Alpha)": "CYM",
+  "IANA Internet": ".ky",
+  "IOC Olympic": "CAY",
+  "UN\/ISO Numeric": 136,
+  "ITU Calling": "1-345"
+ },
+ {
+  "Country Name": "CENTRAL AFRICAN REPUBLIC",
+  "ISO (2-alpha)": "CF",
+  "ISO2 (3-Alpha)": "CAF",
+  "IANA Internet": ".cf",
+  "UN Vehicle": "RCA",
+  "IOC Olympic": "CAF",
+  "UN\/ISO Numeric": 140,
+  "ITU Calling": 236
+ },
+ {
+  "Country Name": "CHAD (Tchad)",
+  "ISO (2-alpha)": "TD",
+  "ISO2 (3-Alpha)": "TCD",
+  "IANA Internet": ".td",
+  "UN Vehicle": "TCH",
+  "IOC Olympic": "CHA",
+  "UN\/ISO Numeric": 148,
+  "ITU Calling": 235
+ },
+ {
+  "Country Name": "CHANNEL ISLANDS",
+  "UN\/ISO Numeric": 830
+ },
+ {
+  "Country Name": "CHILE",
+  "ISO (2-alpha)": "CL",
+  "ISO2 (3-Alpha)": "CHL",
+  "IANA Internet": ".cl",
+  "UN Vehicle": "RCH",
+  "IOC Olympic": "CHI",
+  "UN\/ISO Numeric": 152,
+  "ITU Calling": 56
+ },
+ {
+  "Country Name": "CHINA",
+  "ISO (2-alpha)": "CN",
+  "ISO2 (3-Alpha)": "CHN",
+  "IANA Internet": ".cn",
+  "IOC Olympic": "CHN",
+  "UN\/ISO Numeric": 156,
+  "ITU Calling": 86
+ },
+ {
+  "Country Name": "CHRISTMAS ISLAND",
+  "ISO (2-alpha)": "CX",
+  "ISO2 (3-Alpha)": "CXR",
+  "IANA Internet": ".cx",
+  "UN\/ISO Numeric": 162
+ },
+ {
+  "Country Name": "COCOS (KEELING) ISLANDS",
+  "ISO (2-alpha)": "CC",
+  "ISO2 (3-Alpha)": "CCK",
+  "IANA Internet": ".cc",
+  "UN\/ISO Numeric": 166
+ },
+ {
+  "Country Name": "COLOMBIA",
+  "ISO (2-alpha)": "CO",
+  "ISO2 (3-Alpha)": "COL",
+  "IANA Internet": ".co",
+  "UN Vehicle": "CO",
+  "IOC Olympic": "COL",
+  "UN\/ISO Numeric": 170,
+  "ITU Calling": 57
+ },
+ {
+  "Country Name": "COMOROS",
+  "ISO (2-alpha)": "KM",
+  "ISO2 (3-Alpha)": "COM",
+  "IANA Internet": ".km",
+  "IOC Olympic": "COM",
+  "UN\/ISO Numeric": 174,
+  "ITU Calling": 269
+ },
+ {
+  "Country Name": "CONGO, REPUBLIC OF",
+  "ISO (2-alpha)": "CG",
+  "ISO2 (3-Alpha)": "COG",
+  "IANA Internet": ".cg",
+  "UN Vehicle": "RCB",
+  "IOC Olympic": "CGO",
+  "UN\/ISO Numeric": 178,
+  "ITU Calling": 242
+ },
+ {
+  "Country Name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE (formerly Zaire)",
+  "ISO (2-alpha)": "CD",
+  "ISO2 (3-Alpha)": "COD",
+  "IANA Internet": ".cd",
+  "UN Vehicle": "ZRE",
+  "IOC Olympic": "COD",
+  "UN\/ISO Numeric": 180,
+  "ITU Calling": 243
+ },
+ {
+  "Country Name": "COOK ISLANDS",
+  "ISO (2-alpha)": "CK",
+  "ISO2 (3-Alpha)": "COK",
+  "IANA Internet": ".ck",
+  "IOC Olympic": "COK",
+  "UN\/ISO Numeric": 184,
+  "ITU Calling": 682
+ },
+ {
+  "Country Name": "COSTA RICA",
+  "ISO (2-alpha)": "CR",
+  "ISO2 (3-Alpha)": "CRI",
+  "IANA Internet": ".cr",
+  "UN Vehicle": "CR",
+  "IOC Olympic": "CRC",
+  "UN\/ISO Numeric": 188,
+  "ITU Calling": 506
+ },
+ {
+  "Country Name": "CÔTE D'IVOIRE (Ivory Coast)",
+  "ISO (2-alpha)": "CI",
+  "ISO2 (3-Alpha)": "CIV",
+  "IANA Internet": ".ci",
+  "UN Vehicle": "CI",
+  "IOC Olympic": "CIV",
+  "UN\/ISO Numeric": 384,
+  "ITU Calling": 225
+ },
+ {
+  "Country Name": "CROATIA (Hrvatska)",
+  "ISO (2-alpha)": "HR",
+  "ISO2 (3-Alpha)": "HRV",
+  "IANA Internet": ".hr",
+  "UN Vehicle": "HR",
+  "IOC Olympic": "CRO",
+  "UN\/ISO Numeric": 191,
+  "ITU Calling": 385
+ },
+ {
+  "Country Name": "CUBA",
+  "ISO (2-alpha)": "CU",
+  "ISO2 (3-Alpha)": "CUB",
+  "IANA Internet": ".cu",
+  "UN Vehicle": "CU",
+  "IOC Olympic": "CUB",
+  "UN\/ISO Numeric": 192,
+  "ITU Calling": 53
+ },
+ {
+  "Country Name": "CURAÇAO",
+  "ISO (2-alpha)": "CW",
+  "ISO2 (3-Alpha)": "CUW",
+  "IANA Internet": ".cw",
+  "UN\/ISO Numeric": 531,
+  "ITU Calling": 599
+ },
+ {
+  "Country Name": "CYPRUS",
+  "ISO (2-alpha)": "CY",
+  "ISO2 (3-Alpha)": "CYP",
+  "IANA Internet": ".cy",
+  "UN Vehicle": "CY",
+  "IOC Olympic": "CYP",
+  "UN\/ISO Numeric": 196,
+  "ITU Calling": 357
+ },
+ {
+  "Country Name": "CZECH REPUBLIC",
+  "ISO (2-alpha)": "CZ",
+  "ISO2 (3-Alpha)": "CZE",
+  "IANA Internet": ".cz",
+  "UN Vehicle": "CZ",
+  "IOC Olympic": "CZE",
+  "UN\/ISO Numeric": 203,
+  "ITU Calling": 420
+ },
+ {
+  "Country Name": "DENMARK",
+  "ISO (2-alpha)": "DK",
+  "ISO2 (3-Alpha)": "DNK",
+  "IANA Internet": ".dk",
+  "UN Vehicle": "DK",
+  "IOC Olympic": "DEN",
+  "UN\/ISO Numeric": 208,
+  "ITU Calling": 45
+ },
+ {
+  "Country Name": "DJIBOUTI",
+  "ISO (2-alpha)": "DJ",
+  "ISO2 (3-Alpha)": "DJI",
+  "IANA Internet": ".dj",
+  "IOC Olympic": "DJI",
+  "UN\/ISO Numeric": 262,
+  "ITU Calling": 253
+ },
+ {
+  "Country Name": "DOMINICA",
+  "ISO (2-alpha)": "DM",
+  "ISO2 (3-Alpha)": "DMA",
+  "IANA Internet": ".dm",
+  "UN Vehicle": "WD",
+  "IOC Olympic": "DMA",
+  "UN\/ISO Numeric": 212,
+  "ITU Calling": "1-767"
+ },
+ {
+  "Country Name": "DOMINICAN REPUBLIC",
+  "ISO (2-alpha)": "DO",
+  "ISO2 (3-Alpha)": "DOM",
+  "IANA Internet": ".do",
+  "UN Vehicle": "DOM",
+  "IOC Olympic": "DOM",
+  "UN\/ISO Numeric": 214,
+  "ITU Calling": "1-809"
+ },
+ {
+  "Country Name": "ECUADOR",
+  "ISO (2-alpha)": "EC",
+  "ISO2 (3-Alpha)": "ECU",
+  "IANA Internet": ".ec",
+  "UN Vehicle": "EC",
+  "IOC Olympic": "ECU",
+  "UN\/ISO Numeric": 218,
+  "ITU Calling": 593
+ },
+ {
+  "Country Name": "EGYPT",
+  "ISO (2-alpha)": "EG",
+  "ISO2 (3-Alpha)": "EGY",
+  "IANA Internet": ".eg",
+  "UN Vehicle": "ET",
+  "IOC Olympic": "EGY",
+  "UN\/ISO Numeric": 818,
+  "ITU Calling": 20
+ },
+ {
+  "Country Name": "EL SALVADOR",
+  "ISO (2-alpha)": "SV",
+  "ISO2 (3-Alpha)": "SLV",
+  "IANA Internet": ".sv",
+  "UN Vehicle": "ES",
+  "IOC Olympic": "ESA",
+  "UN\/ISO Numeric": 222,
+  "ITU Calling": 503
+ },
+ {
+  "Country Name": "EQUATORIAL GUINEA",
+  "ISO (2-alpha)": "GQ",
+  "ISO2 (3-Alpha)": "GNQ",
+  "IANA Internet": ".gq",
+  "IOC Olympic": "GEQ",
+  "UN\/ISO Numeric": 226,
+  "ITU Calling": 240
+ },
+ {
+  "Country Name": "ERITREA",
+  "ISO (2-alpha)": "ER",
+  "ISO2 (3-Alpha)": "ERI",
+  "IANA Internet": ".er",
+  "IOC Olympic": "ERI",
+  "UN\/ISO Numeric": 232,
+  "ITU Calling": 291
+ },
+ {
+  "Country Name": "ESTONIA",
+  "ISO (2-alpha)": "EE",
+  "ISO2 (3-Alpha)": "EST",
+  "IANA Internet": ".ee",
+  "UN Vehicle": "EST",
+  "IOC Olympic": "EST",
+  "UN\/ISO Numeric": 233,
+  "ITU Calling": 372
+ },
+ {
+  "Country Name": "ESWATINI (SWAZILAND)",
+  "ISO (2-alpha)": "SZ",
+  "ISO2 (3-Alpha)": "SWZ",
+  "IANA Internet": ".sz",
+  "UN Vehicle": "SD",
+  "IOC Olympic": "SWZ",
+  "UN\/ISO Numeric": 748,
+  "ITU Calling": 268
+ },
+ {
+  "Country Name": "ETHIOPIA",
+  "ISO (2-alpha)": "ET",
+  "ISO2 (3-Alpha)": "ETH",
+  "IANA Internet": ".et",
+  "UN Vehicle": "ETH",
+  "IOC Olympic": "ETH",
+  "UN\/ISO Numeric": 231,
+  "ITU Calling": 251
+ },
+ {
+  "Country Name": "EUROPEAN UNION",
+  "IANA Internet": ".eu"
+ },
+ {
+  "Country Name": "FAEROE ISLANDS",
+  "ISO (2-alpha)": "FO",
+  "ISO2 (3-Alpha)": "FRO",
+  "IANA Internet": ".fo",
+  "UN Vehicle": "FR",
+  "UN\/ISO Numeric": 234,
+  "ITU Calling": 298
+ },
+ {
+  "Country Name": "FALKLAND ISLANDS (MALVINAS)",
+  "ISO (2-alpha)": "FK",
+  "ISO2 (3-Alpha)": "FLK",
+  "IANA Internet": ".fk",
+  "UN\/ISO Numeric": 238,
+  "ITU Calling": 500
+ },
+ {
+  "Country Name": "FIJI",
+  "ISO (2-alpha)": "FJ",
+  "ISO2 (3-Alpha)": "FJI",
+  "IANA Internet": ".fj",
+  "UN Vehicle": "FJI",
+  "IOC Olympic": "FIJ",
+  "UN\/ISO Numeric": 242,
+  "ITU Calling": 679
+ },
+ {
+  "Country Name": "FINLAND",
+  "ISO (2-alpha)": "FI",
+  "ISO2 (3-Alpha)": "FIN",
+  "IANA Internet": ".fi",
+  "UN Vehicle": "FIN",
+  "IOC Olympic": "FIN",
+  "UN\/ISO Numeric": 246,
+  "ITU Calling": 358
+ },
+ {
+  "Country Name": "FRANCE",
+  "ISO (2-alpha)": "FR",
+  "ISO2 (3-Alpha)": "FRA",
+  "IANA Internet": ".fr",
+  "UN Vehicle": "F",
+  "IOC Olympic": "FRA",
+  "UN\/ISO Numeric": 250,
+  "ITU Calling": 33
+ },
+ {
+  "Country Name": "FRENCH GUIANA",
+  "ISO (2-alpha)": "GF",
+  "ISO2 (3-Alpha)": "GUF",
+  "IANA Internet": ".gf",
+  "UN\/ISO Numeric": 254,
+  "ITU Calling": 594
+ },
+ {
+  "Country Name": "FRENCH POLYNESIA",
+  "ISO (2-alpha)": "PF",
+  "ISO2 (3-Alpha)": "PYF",
+  "IANA Internet": ".pf",
+  "UN\/ISO Numeric": 258,
+  "ITU Calling": 689
+ },
+ {
+  "Country Name": "FRENCH SOUTHERN TERRITORIES",
+  "ISO (2-alpha)": "TF",
+  "ISO2 (3-Alpha)": "ATF",
+  "IANA Internet": ".tf",
+  "UN\/ISO Numeric": 260
+ },
+ {
+  "Country Name": "GABON",
+  "ISO (2-alpha)": "GA",
+  "ISO2 (3-Alpha)": "GAB",
+  "IANA Internet": ".ga",
+  "UN Vehicle": "G",
+  "IOC Olympic": "GAB",
+  "UN\/ISO Numeric": 266,
+  "ITU Calling": 241
+ },
+ {
+  "Country Name": "GAMBIA, THE",
+  "ISO (2-alpha)": "GM",
+  "ISO2 (3-Alpha)": "GMB",
+  "IANA Internet": ".gm",
+  "UN Vehicle": "WAG",
+  "IOC Olympic": "GAM",
+  "UN\/ISO Numeric": 270,
+  "ITU Calling": 220
+ },
+ {
+  "Country Name": "GEORGIA",
+  "ISO (2-alpha)": "GE",
+  "ISO2 (3-Alpha)": "GEO",
+  "IANA Internet": ".ge",
+  "UN Vehicle": "GE",
+  "IOC Olympic": "GEO",
+  "UN\/ISO Numeric": 268
+ },
+ {
+  "Country Name": "GERMANY (Deutschland)",
+  "ISO (2-alpha)": "DE",
+  "ISO2 (3-Alpha)": "DEU",
+  "IANA Internet": ".de",
+  "UN Vehicle": "D",
+  "IOC Olympic": "GER",
+  "UN\/ISO Numeric": 276,
+  "ITU Calling": 49
+ },
+ {
+  "Country Name": "GHANA",
+  "ISO (2-alpha)": "GH",
+  "ISO2 (3-Alpha)": "GHA",
+  "IANA Internet": ".gh",
+  "UN Vehicle": "GH",
+  "IOC Olympic": "GHA",
+  "UN\/ISO Numeric": 288,
+  "ITU Calling": 233
+ },
+ {
+  "Country Name": "GIBRALTAR",
+  "ISO (2-alpha)": "GI",
+  "ISO2 (3-Alpha)": "GIB",
+  "IANA Internet": ".gi",
+  "UN Vehicle": "GBZ",
+  "UN\/ISO Numeric": 292,
+  "ITU Calling": 350
+ },
+ {
+  "Country Name": "GREAT BRITAIN (United Kingdom)",
+  "ISO (2-alpha)": "GB",
+  "ISO2 (3-Alpha)": "GBR",
+  "IANA Internet": ".uk",
+  "UN Vehicle": "GB",
+  "IOC Olympic": "GBR",
+  "UN\/ISO Numeric": 826,
+  "ITU Calling": 44
+ },
+ {
+  "Country Name": "GREECE",
+  "ISO (2-alpha)": "GR",
+  "ISO2 (3-Alpha)": "GRC",
+  "IANA Internet": ".gr",
+  "UN Vehicle": "GR",
+  "IOC Olympic": "GRE",
+  "UN\/ISO Numeric": 300,
+  "ITU Calling": 30
+ },
+ {
+  "Country Name": "GREENLAND",
+  "ISO (2-alpha)": "GL",
+  "ISO2 (3-Alpha)": "GRL",
+  "IANA Internet": ".gl",
+  "UN\/ISO Numeric": 304,
+  "ITU Calling": 299
+ },
+ {
+  "Country Name": "GRENADA",
+  "ISO (2-alpha)": "GD",
+  "ISO2 (3-Alpha)": "GRD",
+  "IANA Internet": ".gd",
+  "UN Vehicle": "WG",
+  "IOC Olympic": "GRN",
+  "UN\/ISO Numeric": 308,
+  "ITU Calling": "1-473"
+ },
+ {
+  "Country Name": "GUADELOUPE",
+  "ISO (2-alpha)": "GP",
+  "ISO2 (3-Alpha)": "GLP",
+  "IANA Internet": ".gp",
+  "UN\/ISO Numeric": 312,
+  "ITU Calling": 590
+ },
+ {
+  "Country Name": "GUAM",
+  "ISO (2-alpha)": "GU",
+  "ISO2 (3-Alpha)": "GUM",
+  "IANA Internet": ".gu",
+  "IOC Olympic": "GUM",
+  "UN\/ISO Numeric": 316,
+  "ITU Calling": "1-671"
+ },
+ {
+  "Country Name": "GUATEMALA",
+  "ISO (2-alpha)": "GT",
+  "ISO2 (3-Alpha)": "GTM",
+  "IANA Internet": ".gt",
+  "UN Vehicle": "GCA",
+  "IOC Olympic": "GUA",
+  "UN\/ISO Numeric": 320,
+  "ITU Calling": 502
+ },
+ {
+  "Country Name": "GUERNSEY",
+  "ISO (2-alpha)": "GG",
+  "ISO2 (3-Alpha)": "GGY",
+  "IANA Internet": ".gg",
+  "UN Vehicle": "GBG"
+ },
+ {
+  "Country Name": "GUINEA",
+  "ISO (2-alpha)": "GN",
+  "ISO2 (3-Alpha)": "GIN",
+  "IANA Internet": ".gn",
+  "UN Vehicle": "RG",
+  "IOC Olympic": "GUI",
+  "UN\/ISO Numeric": 324,
+  "ITU Calling": 224
+ },
+ {
+  "Country Name": "GUINEA-BISSAU",
+  "ISO (2-alpha)": "GW",
+  "ISO2 (3-Alpha)": "GNB",
+  "IANA Internet": ".gw",
+  "IOC Olympic": "GBS",
+  "UN\/ISO Numeric": 624,
+  "ITU Calling": 245
+ },
+ {
+  "Country Name": "GUYANA",
+  "ISO (2-alpha)": "GY",
+  "ISO2 (3-Alpha)": "GUY",
+  "IANA Internet": ".gy",
+  "UN Vehicle": "GUY",
+  "IOC Olympic": "GUY",
+  "UN\/ISO Numeric": 328,
+  "ITU Calling": 592
+ },
+ {
+  "Country Name": "HAITI",
+  "ISO (2-alpha)": "HT",
+  "ISO2 (3-Alpha)": "HTI",
+  "IANA Internet": ".ht",
+  "UN Vehicle": "RH",
+  "IOC Olympic": "HAI",
+  "UN\/ISO Numeric": 332,
+  "ITU Calling": 509
+ },
+ {
+  "Country Name": "HEARD ISLAND AND MCDONALD ISLANDS",
+  "ISO (2-alpha)": "HM",
+  "ISO2 (3-Alpha)": "HMD",
+  "IANA Internet": ".hm",
+  "UN\/ISO Numeric": 334
+ },
+ {
+  "Country Name": "HONDURAS",
+  "ISO (2-alpha)": "HN",
+  "ISO2 (3-Alpha)": "HND",
+  "IANA Internet": ".hn",
+  "IOC Olympic": "HON",
+  "UN\/ISO Numeric": 340,
+  "ITU Calling": 504
+ },
+ {
+  "Country Name": "HONG KONG (Special Administrative Region of China)",
+  "ISO (2-alpha)": "HK",
+  "ISO2 (3-Alpha)": "HKG",
+  "IANA Internet": ".hk",
+  "IOC Olympic": "HKG",
+  "UN\/ISO Numeric": 344,
+  "ITU Calling": 852
+ },
+ {
+  "Country Name": "HUNGARY",
+  "ISO (2-alpha)": "HU",
+  "ISO2 (3-Alpha)": "HUN",
+  "IANA Internet": ".hu",
+  "UN Vehicle": "H",
+  "IOC Olympic": "HUN",
+  "UN\/ISO Numeric": 348,
+  "ITU Calling": 36
+ },
+ {
+  "Country Name": "ICELAND",
+  "ISO (2-alpha)": "IS",
+  "ISO2 (3-Alpha)": "ISL",
+  "IANA Internet": ".is",
+  "UN Vehicle": "IS",
+  "IOC Olympic": "ISL",
+  "UN\/ISO Numeric": 352,
+  "ITU Calling": 354
+ },
+ {
+  "Country Name": "INDIA",
+  "ISO (2-alpha)": "IN",
+  "ISO2 (3-Alpha)": "IND",
+  "IANA Internet": ".in",
+  "UN Vehicle": "IND",
+  "IOC Olympic": "IND",
+  "UN\/ISO Numeric": 356,
+  "ITU Calling": 91
+ },
+ {
+  "Country Name": "INDONESIA",
+  "ISO (2-alpha)": "ID",
+  "ISO2 (3-Alpha)": "IDN",
+  "IANA Internet": ".id",
+  "UN Vehicle": "RI",
+  "IOC Olympic": "INA",
+  "UN\/ISO Numeric": 360,
+  "ITU Calling": 62
+ },
+ {
+  "Country Name": "INTERNATIONAL ORGANIZATIONS",
+  "IANA Internet": ".int"
+ },
+ {
+  "Country Name": "IRAN (Islamic Republic of Iran)",
+  "ISO (2-alpha)": "IR",
+  "ISO2 (3-Alpha)": "IRN",
+  "IANA Internet": ".ir",
+  "UN Vehicle": "IR",
+  "IOC Olympic": "IRI",
+  "UN\/ISO Numeric": 364,
+  "ITU Calling": 98
+ },
+ {
+  "Country Name": "IRAQ",
+  "ISO (2-alpha)": "IQ",
+  "ISO2 (3-Alpha)": "IRQ",
+  "IANA Internet": ".iq",
+  "UN Vehicle": "IRQ",
+  "IOC Olympic": "IRQ",
+  "UN\/ISO Numeric": 368,
+  "ITU Calling": 964
+ },
+ {
+  "Country Name": "IRELAND",
+  "ISO (2-alpha)": "IE",
+  "ISO2 (3-Alpha)": "IRL",
+  "IANA Internet": ".ie",
+  "UN Vehicle": "IRL",
+  "IOC Olympic": "IRL",
+  "UN\/ISO Numeric": 372,
+  "ITU Calling": 353
+ },
+ {
+  "Country Name": "ISLE OF MAN",
+  "ISO (2-alpha)": "IM",
+  "ISO2 (3-Alpha)": "IMN",
+  "IANA Internet": ".im",
+  "UN Vehicle": "GBM",
+  "UN\/ISO Numeric": 833
+ },
+ {
+  "Country Name": "ISRAEL",
+  "ISO (2-alpha)": "IL",
+  "ISO2 (3-Alpha)": "ISR",
+  "IANA Internet": ".il",
+  "UN Vehicle": "IL",
+  "IOC Olympic": "ISR",
+  "UN\/ISO Numeric": 376,
+  "ITU Calling": 972
+ },
+ {
+  "Country Name": "ITALY",
+  "ISO (2-alpha)": "IT",
+  "ISO2 (3-Alpha)": "ITA",
+  "IANA Internet": ".it",
+  "UN Vehicle": "I",
+  "IOC Olympic": "ITA",
+  "UN\/ISO Numeric": 380,
+  "ITU Calling": 39
+ },
+ {
+  "Country Name": "JAMAICA",
+  "ISO (2-alpha)": "JM",
+  "ISO2 (3-Alpha)": "JAM",
+  "IANA Internet": ".jm",
+  "UN Vehicle": "JA",
+  "IOC Olympic": "JAM",
+  "UN\/ISO Numeric": 388,
+  "ITU Calling": "1-876"
+ },
+ {
+  "Country Name": "JAPAN",
+  "ISO (2-alpha)": "JP",
+  "ISO2 (3-Alpha)": "JPN",
+  "IANA Internet": ".jp",
+  "UN Vehicle": "J",
+  "IOC Olympic": "JPN",
+  "UN\/ISO Numeric": 392,
+  "ITU Calling": 81
+ },
+ {
+  "Country Name": "JERSEY",
+  "ISO (2-alpha)": "JE",
+  "ISO2 (3-Alpha)": "JEY",
+  "IANA Internet": ".je",
+  "UN Vehicle": "GBJ"
+ },
+ {
+  "Country Name": "JORDAN (Hashemite Kingdom of Jordan)",
+  "ISO (2-alpha)": "JO",
+  "ISO2 (3-Alpha)": "JOR",
+  "IANA Internet": ".jo",
+  "UN Vehicle": "HKJ",
+  "IOC Olympic": "JOR",
+  "UN\/ISO Numeric": 400,
+  "ITU Calling": 962
+ },
+ {
+  "Country Name": "KAZAKHSTAN",
+  "ISO (2-alpha)": "KZ",
+  "ISO2 (3-Alpha)": "KAZ",
+  "IANA Internet": ".kz",
+  "UN Vehicle": "KZ",
+  "IOC Olympic": "KAZ",
+  "UN\/ISO Numeric": 398,
+  "ITU Calling": 7
+ },
+ {
+  "Country Name": "KENYA",
+  "ISO (2-alpha)": "KE",
+  "ISO2 (3-Alpha)": "KEN",
+  "IANA Internet": ".ke",
+  "UN Vehicle": "EAK",
+  "IOC Olympic": "KEN",
+  "UN\/ISO Numeric": 404,
+  "ITU Calling": 254
+ },
+ {
+  "Country Name": "KIRIBATI",
+  "ISO (2-alpha)": "KI",
+  "ISO2 (3-Alpha)": "KIR",
+  "IANA Internet": ".ki",
+  "IOC Olympic": "KIR",
+  "UN\/ISO Numeric": 296,
+  "ITU Calling": 686
+ },
+ {
+  "Country Name": "KOREA (Democratic Peoples Republic of [North] Korea)",
+  "ISO (2-alpha)": "KP",
+  "ISO2 (3-Alpha)": "PRK",
+  "IANA Internet": ".kp",
+  "IOC Olympic": "PRK",
+  "UN\/ISO Numeric": 408,
+  "ITU Calling": 850
+ },
+ {
+  "Country Name": "KOREA (Republic of [South] Korea)",
+  "ISO (2-alpha)": "KR",
+  "ISO2 (3-Alpha)": "KOR",
+  "IANA Internet": ".kr",
+  "UN Vehicle": "ROK",
+  "IOC Olympic": "KOR",
+  "UN\/ISO Numeric": 410,
+  "ITU Calling": 82
+ },
+ {
+  "Country Name": "KOSOVO",
+  "IOC Olympic": "KOS"
+ },
+ {
+  "Country Name": "KUWAIT",
+  "ISO (2-alpha)": "KW",
+  "ISO2 (3-Alpha)": "KWT",
+  "IANA Internet": ".kw",
+  "UN Vehicle": "KWT",
+  "IOC Olympic": "KUW",
+  "UN\/ISO Numeric": 414,
+  "ITU Calling": 965
+ },
+ {
+  "Country Name": "KYRGYZSTAN",
+  "ISO (2-alpha)": "KG",
+  "ISO2 (3-Alpha)": "KGZ",
+  "IANA Internet": ".kg",
+  "UN Vehicle": "KS",
+  "IOC Olympic": "KGZ",
+  "UN\/ISO Numeric": 417,
+  "ITU Calling": 996
+ },
+ {
+  "Country Name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+  "ISO (2-alpha)": "LA",
+  "ISO2 (3-Alpha)": "LAO",
+  "IANA Internet": ".la",
+  "UN Vehicle": "LAO",
+  "IOC Olympic": "LAO",
+  "UN\/ISO Numeric": 418,
+  "ITU Calling": 856
+ },
+ {
+  "Country Name": "LATVIA",
+  "ISO (2-alpha)": "LV",
+  "ISO2 (3-Alpha)": "LVA",
+  "IANA Internet": ".lv",
+  "UN Vehicle": "LV",
+  "IOC Olympic": "LAT",
+  "UN\/ISO Numeric": 428,
+  "ITU Calling": 371
+ },
+ {
+  "Country Name": "LEBANON",
+  "ISO (2-alpha)": "LB",
+  "ISO2 (3-Alpha)": "LBN",
+  "IANA Internet": ".lb",
+  "UN Vehicle": "RL",
+  "IOC Olympic": "LIB",
+  "UN\/ISO Numeric": 422,
+  "ITU Calling": 961
+ },
+ {
+  "Country Name": "LESOTHO",
+  "ISO (2-alpha)": "LS",
+  "ISO2 (3-Alpha)": "LSO",
+  "IANA Internet": ".ls",
+  "UN Vehicle": "LS",
+  "IOC Olympic": "LES",
+  "UN\/ISO Numeric": 426,
+  "ITU Calling": 266
+ },
+ {
+  "Country Name": "LIBERIA",
+  "ISO (2-alpha)": "LR",
+  "ISO2 (3-Alpha)": "LBR",
+  "IANA Internet": ".lr",
+  "UN Vehicle": "LB",
+  "IOC Olympic": "LBR",
+  "UN\/ISO Numeric": 430,
+  "ITU Calling": 231
+ },
+ {
+  "Country Name": "LIBYA (Libyan Arab Jamahirya)",
+  "ISO (2-alpha)": "LY",
+  "ISO2 (3-Alpha)": "LBY",
+  "IANA Internet": ".ly",
+  "UN Vehicle": "LAR",
+  "IOC Olympic": "LBA",
+  "UN\/ISO Numeric": 434,
+  "ITU Calling": 218
+ },
+ {
+  "Country Name": "LIECHTENSTEIN (Fürstentum Liechtenstein)",
+  "ISO (2-alpha)": "LI",
+  "ISO2 (3-Alpha)": "LIE",
+  "IANA Internet": ".li",
+  "UN Vehicle": "FL",
+  "IOC Olympic": "LIE",
+  "UN\/ISO Numeric": 438,
+  "ITU Calling": 423
+ },
+ {
+  "Country Name": "LITHUANIA",
+  "ISO (2-alpha)": "LT",
+  "ISO2 (3-Alpha)": "LTU",
+  "IANA Internet": ".lt",
+  "UN Vehicle": "LT",
+  "IOC Olympic": "LTU",
+  "UN\/ISO Numeric": 440,
+  "ITU Calling": 370
+ },
+ {
+  "Country Name": "LUXEMBOURG",
+  "ISO (2-alpha)": "LU",
+  "ISO2 (3-Alpha)": "LUX",
+  "IANA Internet": ".lu",
+  "UN Vehicle": "L",
+  "IOC Olympic": "LUX",
+  "UN\/ISO Numeric": 442,
+  "ITU Calling": 352
+ },
+ {
+  "Country Name": "MACAO (Special Administrative Region of China)",
+  "ISO (2-alpha)": "MO",
+  "ISO2 (3-Alpha)": "MAC",
+  "IANA Internet": ".mo",
+  "UN\/ISO Numeric": 446,
+  "ITU Calling": 853
+ },
+ {
+  "Country Name": "MADAGASCAR",
+  "ISO (2-alpha)": "MG",
+  "ISO2 (3-Alpha)": "MDG",
+  "IANA Internet": ".mg",
+  "UN Vehicle": "RM",
+  "IOC Olympic": "MAD",
+  "UN\/ISO Numeric": 450,
+  "ITU Calling": 261
+ },
+ {
+  "Country Name": "MALAWI",
+  "ISO (2-alpha)": "MW",
+  "ISO2 (3-Alpha)": "MWI",
+  "IANA Internet": ".mw",
+  "UN Vehicle": "MW",
+  "IOC Olympic": "MAW",
+  "UN\/ISO Numeric": 454,
+  "ITU Calling": 265
+ },
+ {
+  "Country Name": "MALAYSIA",
+  "ISO (2-alpha)": "MY",
+  "ISO2 (3-Alpha)": "MYS",
+  "IANA Internet": ".my",
+  "UN Vehicle": "MAL",
+  "IOC Olympic": "MAS",
+  "UN\/ISO Numeric": 458,
+  "ITU Calling": 60
+ },
+ {
+  "Country Name": "MALDIVES",
+  "ISO (2-alpha)": "MV",
+  "ISO2 (3-Alpha)": "MDV",
+  "IANA Internet": ".mv",
+  "IOC Olympic": "MDV",
+  "UN\/ISO Numeric": 462,
+  "ITU Calling": 960
+ },
+ {
+  "Country Name": "MALI",
+  "ISO (2-alpha)": "ML",
+  "ISO2 (3-Alpha)": "MLI",
+  "IANA Internet": ".ml",
+  "UN Vehicle": "RMM",
+  "IOC Olympic": "MLI",
+  "UN\/ISO Numeric": 466,
+  "ITU Calling": 223
+ },
+ {
+  "Country Name": "MALTA",
+  "ISO (2-alpha)": "MT",
+  "ISO2 (3-Alpha)": "MLT",
+  "IANA Internet": ".mt",
+  "UN Vehicle": "M",
+  "IOC Olympic": "MLT",
+  "UN\/ISO Numeric": 470,
+  "ITU Calling": 356
+ },
+ {
+  "Country Name": "MARSHALL ISLANDS",
+  "ISO (2-alpha)": "MH",
+  "ISO2 (3-Alpha)": "MHL",
+  "IANA Internet": ".mh",
+  "IOC Olympic": "MHL",
+  "UN\/ISO Numeric": 584,
+  "ITU Calling": 692
+ },
+ {
+  "Country Name": "MARTINIQUE",
+  "ISO (2-alpha)": "MQ",
+  "ISO2 (3-Alpha)": "MTQ",
+  "IANA Internet": ".mq",
+  "UN\/ISO Numeric": 474,
+  "ITU Calling": 596
+ },
+ {
+  "Country Name": "MAURITANIA",
+  "ISO (2-alpha)": "MR",
+  "ISO2 (3-Alpha)": "MRT",
+  "IANA Internet": ".mr",
+  "UN Vehicle": "RIM",
+  "IOC Olympic": "MTN",
+  "UN\/ISO Numeric": 478,
+  "ITU Calling": 222
+ },
+ {
+  "Country Name": "MAURITIUS",
+  "ISO (2-alpha)": "MU",
+  "ISO2 (3-Alpha)": "MUS",
+  "IANA Internet": ".mu",
+  "UN Vehicle": "MS",
+  "IOC Olympic": "MRI",
+  "UN\/ISO Numeric": 480,
+  "ITU Calling": 230
+ },
+ {
+  "Country Name": "MAYOTTE",
+  "ISO (2-alpha)": "YT",
+  "ISO2 (3-Alpha)": "MYT",
+  "IANA Internet": ".yt",
+  "UN\/ISO Numeric": 175,
+  "ITU Calling": 269
+ },
+ {
+  "Country Name": "MEXICO",
+  "ISO (2-alpha)": "MX",
+  "ISO2 (3-Alpha)": "MEX",
+  "IANA Internet": ".mx",
+  "UN Vehicle": "MEX",
+  "IOC Olympic": "MEX",
+  "UN\/ISO Numeric": 484,
+  "ITU Calling": 52
+ },
+ {
+  "Country Name": "MICRONESIA (Federated States of Micronesia)",
+  "ISO (2-alpha)": "FM",
+  "ISO2 (3-Alpha)": "FSM",
+  "IANA Internet": ".fm",
+  "IOC Olympic": "FSM",
+  "UN\/ISO Numeric": 583,
+  "ITU Calling": 691
+ },
+ {
+  "Country Name": "MOLDOVA",
+  "ISO (2-alpha)": "MD",
+  "ISO2 (3-Alpha)": "MDA",
+  "IANA Internet": ".md",
+  "UN Vehicle": "MD",
+  "IOC Olympic": "MDA",
+  "UN\/ISO Numeric": 498,
+  "ITU Calling": 373
+ },
+ {
+  "Country Name": "MONACO",
+  "ISO (2-alpha)": "MC",
+  "ISO2 (3-Alpha)": "MCO",
+  "IANA Internet": ".mc",
+  "UN Vehicle": "MC",
+  "IOC Olympic": "MON",
+  "UN\/ISO Numeric": 492,
+  "ITU Calling": 377
+ },
+ {
+  "Country Name": "MONGOLIA",
+  "ISO (2-alpha)": "MN",
+  "ISO2 (3-Alpha)": "MNG",
+  "IANA Internet": ".mn",
+  "UN Vehicle": "MGL",
+  "IOC Olympic": "MGL",
+  "UN\/ISO Numeric": 496,
+  "ITU Calling": 976
+ },
+ {
+  "Country Name": "MONTENEGRO",
+  "ISO (2-alpha)": "ME",
+  "ISO2 (3-Alpha)": "MNE",
+  "IANA Internet": ".me",
+  "UN Vehicle": "MNE",
+  "IOC Olympic": "MNE",
+  "UN\/ISO Numeric": 499,
+  "ITU Calling": 382
+ },
+ {
+  "Country Name": "MONTSERRAT",
+  "ISO (2-alpha)": "MS",
+  "ISO2 (3-Alpha)": "MSR",
+  "IANA Internet": ".ms",
+  "UN\/ISO Numeric": 500,
+  "ITU Calling": "1-664"
+ },
+ {
+  "Country Name": "MOROCCO",
+  "ISO (2-alpha)": "MA",
+  "ISO2 (3-Alpha)": "MAR",
+  "IANA Internet": ".ma",
+  "UN Vehicle": "MA",
+  "IOC Olympic": "MAR",
+  "UN\/ISO Numeric": 504,
+  "ITU Calling": 212
+ },
+ {
+  "Country Name": "MOZAMBIQUE (Moçambique)",
+  "ISO (2-alpha)": "MZ",
+  "ISO2 (3-Alpha)": "MOZ",
+  "IANA Internet": ".mz",
+  "UN Vehicle": "MOC",
+  "IOC Olympic": "MOZ",
+  "UN\/ISO Numeric": 508,
+  "ITU Calling": 258
+ },
+ {
+  "Country Name": "MYANMAR (formerly Burma)",
+  "ISO (2-alpha)": "MM",
+  "ISO2 (3-Alpha)": "MMR",
+  "IANA Internet": ".mm",
+  "UN Vehicle": "BUR",
+  "IOC Olympic": "MYA",
+  "UN\/ISO Numeric": 104,
+  "ITU Calling": 95
+ },
+ {
+  "Country Name": "NAMIBIA",
+  "ISO (2-alpha)": "NA",
+  "ISO2 (3-Alpha)": "NAM",
+  "IANA Internet": ".na",
+  "UN Vehicle": "NAM",
+  "IOC Olympic": "NAM",
+  "UN\/ISO Numeric": 516,
+  "ITU Calling": 264
+ },
+ {
+  "Country Name": "NAURU",
+  "ISO (2-alpha)": "NR",
+  "ISO2 (3-Alpha)": "NRU",
+  "IANA Internet": ".nr",
+  "UN Vehicle": "NAU",
+  "IOC Olympic": "NRU",
+  "UN\/ISO Numeric": 520,
+  "ITU Calling": 674
+ },
+ {
+  "Country Name": "NEPAL",
+  "ISO (2-alpha)": "NP",
+  "ISO2 (3-Alpha)": "NPL",
+  "IANA Internet": ".np",
+  "UN Vehicle": "NEP",
+  "IOC Olympic": "NEP",
+  "UN\/ISO Numeric": 524,
+  "ITU Calling": 977
+ },
+ {
+  "Country Name": "NETHERLANDS",
+  "ISO (2-alpha)": "NL",
+  "ISO2 (3-Alpha)": "NLD",
+  "IANA Internet": ".nl",
+  "UN Vehicle": "NL",
+  "IOC Olympic": "NED",
+  "UN\/ISO Numeric": 528,
+  "ITU Calling": 31
+ },
+ {
+  "Country Name": "NETHERLANDS ANTILLES (obsolete)",
+  "ISO (2-alpha)": "AN",
+  "ISO2 (3-Alpha)": "ANT",
+  "IANA Internet": ".an",
+  "UN Vehicle": "NA",
+  "IOC Olympic": "AHO",
+  "UN\/ISO Numeric": 530,
+  "ITU Calling": 599
+ },
+ {
+  "Country Name": "NEW CALEDONIA",
+  "ISO (2-alpha)": "NC",
+  "ISO2 (3-Alpha)": "NCL",
+  "IANA Internet": ".nc",
+  "UN\/ISO Numeric": 540,
+  "ITU Calling": 687
+ },
+ {
+  "Country Name": "NEW ZEALAND",
+  "ISO (2-alpha)": "NZ",
+  "ISO2 (3-Alpha)": "NZL",
+  "IANA Internet": ".nz",
+  "UN Vehicle": "NZ",
+  "IOC Olympic": "NZL",
+  "UN\/ISO Numeric": 554,
+  "ITU Calling": 64
+ },
+ {
+  "Country Name": "NICARAGUA",
+  "ISO (2-alpha)": "NI",
+  "ISO2 (3-Alpha)": "NIC",
+  "IANA Internet": ".ni",
+  "UN Vehicle": "NIC",
+  "IOC Olympic": "NCA",
+  "UN\/ISO Numeric": 558,
+  "ITU Calling": 505
+ },
+ {
+  "Country Name": "NIGER",
+  "ISO (2-alpha)": "NE",
+  "ISO2 (3-Alpha)": "NER",
+  "IANA Internet": ".ne",
+  "UN Vehicle": "RN",
+  "IOC Olympic": "NIG",
+  "UN\/ISO Numeric": 562,
+  "ITU Calling": 227
+ },
+ {
+  "Country Name": "NIGERIA",
+  "ISO (2-alpha)": "NG",
+  "ISO2 (3-Alpha)": "NGA",
+  "IANA Internet": ".ng",
+  "UN Vehicle": "WAN",
+  "IOC Olympic": "NGR",
+  "UN\/ISO Numeric": 566,
+  "ITU Calling": 234
+ },
+ {
+  "Country Name": "NIUE",
+  "ISO (2-alpha)": "NU",
+  "ISO2 (3-Alpha)": "NIU",
+  "IANA Internet": ".nu",
+  "UN\/ISO Numeric": 570,
+  "ITU Calling": 683
+ },
+ {
+  "Country Name": "NORFOLK ISLAND",
+  "ISO (2-alpha)": "NF",
+  "ISO2 (3-Alpha)": "NFK",
+  "IANA Internet": ".nf",
+  "UN\/ISO Numeric": 574
+ },
+ {
+  "Country Name": "NORTH MACEDONIA",
+  "ISO (2-alpha)": "MK",
+  "ISO2 (3-Alpha)": "MKD",
+  "IANA Internet": ".mk",
+  "UN Vehicle": "MK",
+  "IOC Olympic": "MKD",
+  "UN\/ISO Numeric": 807,
+  "ITU Calling": 389
+ },
+ {
+  "Country Name": "NORTHERN MARIANA ISLANDS",
+  "ISO (2-alpha)": "MP",
+  "ISO2 (3-Alpha)": "MNP",
+  "IANA Internet": ".mp",
+  "UN\/ISO Numeric": 580,
+  "ITU Calling": "1-670"
+ },
+ {
+  "Country Name": "NORWAY",
+  "ISO (2-alpha)": "NO",
+  "ISO2 (3-Alpha)": "NOR",
+  "IANA Internet": ".no",
+  "UN Vehicle": "N",
+  "IOC Olympic": "NOR",
+  "UN\/ISO Numeric": 578,
+  "ITU Calling": 47
+ },
+ {
+  "Country Name": "OMAN",
+  "ISO (2-alpha)": "OM",
+  "ISO2 (3-Alpha)": "OMN",
+  "IANA Internet": ".om",
+  "IOC Olympic": "OMA",
+  "UN\/ISO Numeric": 512,
+  "ITU Calling": 968
+ },
+ {
+  "Country Name": "PAKISTAN",
+  "ISO (2-alpha)": "PK",
+  "ISO2 (3-Alpha)": "PAK",
+  "IANA Internet": ".pk",
+  "UN Vehicle": "PK",
+  "IOC Olympic": "PAK",
+  "UN\/ISO Numeric": 586,
+  "ITU Calling": 92
+ },
+ {
+  "Country Name": "PALAU",
+  "ISO (2-alpha)": "PW",
+  "ISO2 (3-Alpha)": "PLW",
+  "IANA Internet": ".pw",
+  "IOC Olympic": "PLW",
+  "UN\/ISO Numeric": 585,
+  "ITU Calling": 680
+ },
+ {
+  "Country Name": "PALESTINIAN TERRITORIES",
+  "ISO (2-alpha)": "PS",
+  "ISO2 (3-Alpha)": "PSE",
+  "IANA Internet": ".ps",
+  "IOC Olympic": "PLE",
+  "UN\/ISO Numeric": 275,
+  "ITU Calling": 970
+ },
+ {
+  "Country Name": "PANAMA",
+  "ISO (2-alpha)": "PA",
+  "ISO2 (3-Alpha)": "PAN",
+  "IANA Internet": ".pa",
+  "UN Vehicle": "PA",
+  "IOC Olympic": "PAN",
+  "UN\/ISO Numeric": 591,
+  "ITU Calling": 507
+ },
+ {
+  "Country Name": "PAPUA NEW GUINEA",
+  "ISO (2-alpha)": "PG",
+  "ISO2 (3-Alpha)": "PNG",
+  "IANA Internet": ".pg",
+  "UN Vehicle": "PNG",
+  "IOC Olympic": "PNG",
+  "UN\/ISO Numeric": 598,
+  "ITU Calling": 675
+ },
+ {
+  "Country Name": "PARAGUAY",
+  "ISO (2-alpha)": "PY",
+  "ISO2 (3-Alpha)": "PRY",
+  "IANA Internet": ".py",
+  "UN Vehicle": "PY",
+  "IOC Olympic": "PAR",
+  "UN\/ISO Numeric": 600,
+  "ITU Calling": 595
+ },
+ {
+  "Country Name": "PERU",
+  "ISO (2-alpha)": "PE",
+  "ISO2 (3-Alpha)": "PER",
+  "IANA Internet": ".pe",
+  "UN Vehicle": "PE",
+  "IOC Olympic": "PER",
+  "UN\/ISO Numeric": 604,
+  "ITU Calling": 51
+ },
+ {
+  "Country Name": "PHILIPPINES",
+  "ISO (2-alpha)": "PH",
+  "ISO2 (3-Alpha)": "PHL",
+  "IANA Internet": ".ph",
+  "UN Vehicle": "RP",
+  "IOC Olympic": "PHI",
+  "UN\/ISO Numeric": 608,
+  "ITU Calling": 63
+ },
+ {
+  "Country Name": "PITCAIRN",
+  "ISO (2-alpha)": "PN",
+  "ISO2 (3-Alpha)": "PCN",
+  "IANA Internet": ".pn",
+  "UN\/ISO Numeric": 612
+ },
+ {
+  "Country Name": "POLAND",
+  "ISO (2-alpha)": "PL",
+  "ISO2 (3-Alpha)": "POL",
+  "IANA Internet": ".pl",
+  "UN Vehicle": "PL",
+  "IOC Olympic": "POL",
+  "UN\/ISO Numeric": 616,
+  "ITU Calling": 48
+ },
+ {
+  "Country Name": "PORTUGAL",
+  "ISO (2-alpha)": "PT",
+  "ISO2 (3-Alpha)": "PRT",
+  "IANA Internet": ".pt",
+  "UN Vehicle": "P",
+  "IOC Olympic": "POR",
+  "UN\/ISO Numeric": 620,
+  "ITU Calling": 351
+ },
+ {
+  "Country Name": "PUERTO RICO",
+  "ISO (2-alpha)": "PR",
+  "ISO2 (3-Alpha)": "PRI",
+  "IANA Internet": ".pr",
+  "IOC Olympic": "PUR",
+  "UN\/ISO Numeric": 630,
+  "ITU Calling": 1
+ },
+ {
+  "Country Name": "QATAR",
+  "ISO (2-alpha)": "QA",
+  "ISO2 (3-Alpha)": "QAT",
+  "IANA Internet": ".qa",
+  "UN Vehicle": "Q",
+  "IOC Olympic": "QAT",
+  "UN\/ISO Numeric": 634,
+  "ITU Calling": 974
+ },
+ {
+  "Country Name": "RÉUNION",
+  "ISO (2-alpha)": "RE",
+  "ISO2 (3-Alpha)": "REU",
+  "IANA Internet": ".re",
+  "UN\/ISO Numeric": 638,
+  "ITU Calling": 262
+ },
+ {
+  "Country Name": "ROMANIA",
+  "ISO (2-alpha)": "RO",
+  "ISO2 (3-Alpha)": "ROU",
+  "IANA Internet": ".ro",
+  "UN Vehicle": "RO",
+  "IOC Olympic": "ROU",
+  "UN\/ISO Numeric": 642,
+  "ITU Calling": 40
+ },
+ {
+  "Country Name": "RUSSIAN FEDERATION",
+  "ISO (2-alpha)": "RU",
+  "ISO2 (3-Alpha)": "RUS",
+  "IANA Internet": ".ru",
+  "UN Vehicle": "RUS",
+  "IOC Olympic": "RUS",
+  "UN\/ISO Numeric": 643,
+  "ITU Calling": 7
+ },
+ {
+  "Country Name": "RWANDA",
+  "ISO (2-alpha)": "RW",
+  "ISO2 (3-Alpha)": "RWA",
+  "IANA Internet": ".rw",
+  "UN Vehicle": "RWA",
+  "IOC Olympic": "RWA",
+  "UN\/ISO Numeric": 646,
+  "ITU Calling": 250
+ },
+ {
+  "Country Name": "SAINT BARTHÉLEMY",
+  "ISO (2-alpha)": "BL",
+  "ISO2 (3-Alpha)": "BLM",
+  "IANA Internet": ".bl",
+  "UN\/ISO Numeric": 652
+ },
+ {
+  "Country Name": "SAINT HELENA",
+  "ISO (2-alpha)": "SH",
+  "ISO2 (3-Alpha)": "SHN",
+  "IANA Internet": ".sh",
+  "UN\/ISO Numeric": 654,
+  "ITU Calling": 290
+ },
+ {
+  "Country Name": "SAINT KITTS AND NEVIS",
+  "ISO (2-alpha)": "KN",
+  "ISO2 (3-Alpha)": "KNA",
+  "IANA Internet": ".kn",
+  "IOC Olympic": "SKN",
+  "UN\/ISO Numeric": 659,
+  "ITU Calling": "1-869"
+ },
+ {
+  "Country Name": "SAINT LUCIA",
+  "ISO (2-alpha)": "LC",
+  "ISO2 (3-Alpha)": "LCA",
+  "IANA Internet": ".lc",
+  "UN Vehicle": "WL",
+  "IOC Olympic": "LCA",
+  "UN\/ISO Numeric": 662,
+  "ITU Calling": "1-758"
+ },
+ {
+  "Country Name": "SAINT MARTIN (French portion)",
+  "ISO (2-alpha)": "MF",
+  "ISO2 (3-Alpha)": "MAF",
+  "IANA Internet": ".mf",
+  "UN\/ISO Numeric": 663
+ },
+ {
+  "Country Name": "SAINT PIERRE AND MIQUELON",
+  "ISO (2-alpha)": "PM",
+  "ISO2 (3-Alpha)": "SPM",
+  "IANA Internet": ".pm",
+  "UN\/ISO Numeric": 666,
+  "ITU Calling": 508
+ },
+ {
+  "Country Name": "SAINT VINCENT AND THE GRENADINES",
+  "ISO (2-alpha)": "VC",
+  "ISO2 (3-Alpha)": "VCT",
+  "IANA Internet": ".vc",
+  "UN Vehicle": "WV",
+  "IOC Olympic": "VIN",
+  "UN\/ISO Numeric": 670,
+  "ITU Calling": "1-784"
+ },
+ {
+  "Country Name": "SAMOA (formerly Western Samoa)",
+  "ISO (2-alpha)": "WS",
+  "ISO2 (3-Alpha)": "WSM",
+  "IANA Internet": ".ws",
+  "UN Vehicle": "WS",
+  "IOC Olympic": "SAM",
+  "UN\/ISO Numeric": 882,
+  "ITU Calling": 685
+ },
+ {
+  "Country Name": "SAN MARINO (Republic of)",
+  "ISO (2-alpha)": "SM",
+  "ISO2 (3-Alpha)": "SMR",
+  "IANA Internet": ".sm",
+  "UN Vehicle": "RSM",
+  "IOC Olympic": "SMR",
+  "UN\/ISO Numeric": 674,
+  "ITU Calling": 378
+ },
+ {
+  "Country Name": "SAO TOME AND PRINCIPE",
+  "ISO (2-alpha)": "ST",
+  "ISO2 (3-Alpha)": "STP",
+  "IANA Internet": ".st",
+  "IOC Olympic": "STP",
+  "UN\/ISO Numeric": 678,
+  "ITU Calling": 239
+ },
+ {
+  "Country Name": "SAUDI ARABIA (Kingdom of Saudi Arabia)",
+  "ISO (2-alpha)": "SA",
+  "ISO2 (3-Alpha)": "SAU",
+  "IANA Internet": ".sa",
+  "UN Vehicle": "SA",
+  "IOC Olympic": "KSA",
+  "UN\/ISO Numeric": 682,
+  "ITU Calling": 966
+ },
+ {
+  "Country Name": "SENEGAL",
+  "ISO (2-alpha)": "SN",
+  "ISO2 (3-Alpha)": "SEN",
+  "IANA Internet": ".sn",
+  "UN Vehicle": "SN",
+  "IOC Olympic": "SEN",
+  "UN\/ISO Numeric": 686,
+  "ITU Calling": 221
+ },
+ {
+  "Country Name": "SERBIA (Republic of Serbia)",
+  "ISO (2-alpha)": "RS",
+  "ISO2 (3-Alpha)": "SRB",
+  "IANA Internet": ".rs",
+  "IOC Olympic": "SRB",
+  "UN\/ISO Numeric": 688,
+  "ITU Calling": 381
+ },
+ {
+  "Country Name": "SEYCHELLES",
+  "ISO (2-alpha)": "SC",
+  "ISO2 (3-Alpha)": "SYC",
+  "IANA Internet": ".sc",
+  "UN Vehicle": "SY",
+  "IOC Olympic": "SEY",
+  "UN\/ISO Numeric": 690,
+  "ITU Calling": 248
+ },
+ {
+  "Country Name": "SIERRA LEONE",
+  "ISO (2-alpha)": "SL",
+  "ISO2 (3-Alpha)": "SLE",
+  "IANA Internet": ".sl",
+  "UN Vehicle": "WAL",
+  "IOC Olympic": "SLE",
+  "UN\/ISO Numeric": 694,
+  "ITU Calling": 232
+ },
+ {
+  "Country Name": "SINGAPORE",
+  "ISO (2-alpha)": "SG",
+  "ISO2 (3-Alpha)": "SGP",
+  "IANA Internet": ".sg",
+  "UN Vehicle": "SGP",
+  "IOC Olympic": "SIN",
+  "UN\/ISO Numeric": 702,
+  "ITU Calling": 65
+ },
+ {
+  "Country Name": "SINT MAARTEN",
+  "ISO (2-alpha)": "SX",
+  "ISO2 (3-Alpha)": "SXM",
+  "IANA Internet": ".sx",
+  "UN\/ISO Numeric": 534,
+  "ITU Calling": 599
+ },
+ {
+  "Country Name": "SLOVAKIA (Slovak Republic)",
+  "ISO (2-alpha)": "SK",
+  "ISO2 (3-Alpha)": "SVK",
+  "IANA Internet": ".sk",
+  "UN Vehicle": "SK",
+  "IOC Olympic": "SVK",
+  "UN\/ISO Numeric": 703,
+  "ITU Calling": 421
+ },
+ {
+  "Country Name": "SLOVENIA",
+  "ISO (2-alpha)": "SI",
+  "ISO2 (3-Alpha)": "SVN",
+  "IANA Internet": ".si",
+  "UN Vehicle": "SLO",
+  "IOC Olympic": "SLO",
+  "UN\/ISO Numeric": 705,
+  "ITU Calling": 386
+ },
+ {
+  "Country Name": "SOLOMON ISLANDS",
+  "ISO (2-alpha)": "SB",
+  "ISO2 (3-Alpha)": "SLB",
+  "IANA Internet": ".sb",
+  "IOC Olympic": "SOL",
+  "UN\/ISO Numeric": 90,
+  "ITU Calling": 677
+ },
+ {
+  "Country Name": "SOMALIA",
+  "ISO (2-alpha)": "SO",
+  "ISO2 (3-Alpha)": "SOM",
+  "IANA Internet": ".so",
+  "UN Vehicle": "SO",
+  "IOC Olympic": "SOM",
+  "UN\/ISO Numeric": 706,
+  "ITU Calling": 252
+ },
+ {
+  "Country Name": "SOUTH AFRICA (Zuid Afrika)",
+  "ISO (2-alpha)": "ZA",
+  "ISO2 (3-Alpha)": "ZAF",
+  "IANA Internet": ".za",
+  "UN Vehicle": "ZA",
+  "IOC Olympic": "RSA",
+  "UN\/ISO Numeric": 710,
+  "ITU Calling": 27
+ },
+ {
+  "Country Name": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+  "ISO (2-alpha)": "GS",
+  "ISO2 (3-Alpha)": "SGS",
+  "IANA Internet": ".gs",
+  "UN\/ISO Numeric": 239
+ },
+ {
+  "Country Name": "SOUTH SUDAN",
+  "ISO (2-alpha)": "SS",
+  "ISO2 (3-Alpha)": "SSD",
+  "IANA Internet": ".ss",
+  "IOC Olympic": "SSD",
+  "UN\/ISO Numeric": 728
+ },
+ {
+  "Country Name": "SOVIET UNION (Internet code still used)",
+  "IANA Internet": ".su"
+ },
+ {
+  "Country Name": "SPAIN (España)",
+  "ISO (2-alpha)": "ES",
+  "ISO2 (3-Alpha)": "ESP",
+  "IANA Internet": ".es",
+  "UN Vehicle": "E",
+  "IOC Olympic": "ESP",
+  "UN\/ISO Numeric": 724,
+  "ITU Calling": 34
+ },
+ {
+  "Country Name": "SRI LANKA (formerly Ceylon)",
+  "ISO (2-alpha)": "LK",
+  "ISO2 (3-Alpha)": "LKA",
+  "IANA Internet": ".lk",
+  "UN Vehicle": "CL",
+  "IOC Olympic": "SRI",
+  "UN\/ISO Numeric": 144,
+  "ITU Calling": 94
+ },
+ {
+  "Country Name": "SUDAN",
+  "ISO (2-alpha)": "SD",
+  "ISO2 (3-Alpha)": "SDN",
+  "IANA Internet": ".sd",
+  "UN Vehicle": "SUD",
+  "IOC Olympic": "SUD",
+  "UN\/ISO Numeric": 736,
+  "ITU Calling": 249
+ },
+ {
+  "Country Name": "SURINAME",
+  "ISO (2-alpha)": "SR",
+  "ISO2 (3-Alpha)": "SUR",
+  "IANA Internet": ".sr",
+  "UN Vehicle": "SME",
+  "IOC Olympic": "SUR",
+  "UN\/ISO Numeric": 740,
+  "ITU Calling": 597
+ },
+ {
+  "Country Name": "SVALBARD AND JAN MAYEN",
+  "ISO (2-alpha)": "SJ",
+  "ISO2 (3-Alpha)": "SJM",
+  "IANA Internet": ".sj",
+  "UN\/ISO Numeric": 744
+ },
+ {
+  "Country Name": "SWEDEN",
+  "ISO (2-alpha)": "SE",
+  "ISO2 (3-Alpha)": "SWE",
+  "IANA Internet": ".se",
+  "UN Vehicle": "S",
+  "IOC Olympic": "SWE",
+  "UN\/ISO Numeric": 752,
+  "ITU Calling": 46
+ },
+ {
+  "Country Name": "SWITZERLAND (Confederation of Helvetia)",
+  "ISO (2-alpha)": "CH",
+  "ISO2 (3-Alpha)": "CHE",
+  "IANA Internet": ".ch",
+  "UN Vehicle": "CH",
+  "IOC Olympic": "SUI",
+  "UN\/ISO Numeric": 756,
+  "ITU Calling": 41
+ },
+ {
+  "Country Name": "SYRIAN ARAB REPUBLIC",
+  "ISO (2-alpha)": "SY",
+  "ISO2 (3-Alpha)": "SYR",
+  "IANA Internet": ".sy",
+  "UN Vehicle": "SYR",
+  "IOC Olympic": "SYR",
+  "UN\/ISO Numeric": 760,
+  "ITU Calling": 963
+ },
+ {
+  "Country Name": "TAIWAN (\"Chinese Taipei\" for IOC)",
+  "ISO (2-alpha)": "TW",
+  "ISO2 (3-Alpha)": "TWN",
+  "IANA Internet": ".tw",
+  "IOC Olympic": "TPE",
+  "UN\/ISO Numeric": 158,
+  "ITU Calling": 886
+ },
+ {
+  "Country Name": "TAJIKISTAN",
+  "ISO (2-alpha)": "TJ",
+  "ISO2 (3-Alpha)": "TJK",
+  "IANA Internet": ".tj",
+  "UN Vehicle": "TJ",
+  "IOC Olympic": "TJK",
+  "UN\/ISO Numeric": 762,
+  "ITU Calling": 992
+ },
+ {
+  "Country Name": "TANGANYIKA",
+  "UN Vehicle": "EAT"
+ },
+ {
+  "Country Name": "TANZANIA",
+  "ISO (2-alpha)": "TZ",
+  "ISO2 (3-Alpha)": "TZA",
+  "IANA Internet": ".tz",
+  "IOC Olympic": "TAN",
+  "UN\/ISO Numeric": 834,
+  "ITU Calling": 255
+ },
+ {
+  "Country Name": "THAILAND",
+  "ISO (2-alpha)": "TH",
+  "ISO2 (3-Alpha)": "THA",
+  "IANA Internet": ".th",
+  "UN Vehicle": "T",
+  "IOC Olympic": "THA",
+  "UN\/ISO Numeric": 764,
+  "ITU Calling": 66
+ },
+ {
+  "Country Name": "TIMOR-LESTE (formerly East Timor)",
+  "ISO (2-alpha)": "TL",
+  "ISO2 (3-Alpha)": "TLS",
+  "IANA Internet": ".tl",
+  "IOC Olympic": "TLS",
+  "UN\/ISO Numeric": 626,
+  "ITU Calling": 670
+ },
+ {
+  "Country Name": "TOGO",
+  "ISO (2-alpha)": "TG",
+  "ISO2 (3-Alpha)": "TGO",
+  "IANA Internet": ".tg",
+  "UN Vehicle": "TG",
+  "IOC Olympic": "TOG",
+  "UN\/ISO Numeric": 768,
+  "ITU Calling": 228
+ },
+ {
+  "Country Name": "TOKELAU",
+  "ISO (2-alpha)": "TK",
+  "ISO2 (3-Alpha)": "TKL",
+  "IANA Internet": ".tk",
+  "UN\/ISO Numeric": 772,
+  "ITU Calling": 690
+ },
+ {
+  "Country Name": "TONGA",
+  "ISO (2-alpha)": "TO",
+  "ISO2 (3-Alpha)": "TON",
+  "IANA Internet": ".to",
+  "IOC Olympic": "TGA",
+  "UN\/ISO Numeric": 776,
+  "ITU Calling": 676
+ },
+ {
+  "Country Name": "TRINIDAD AND TOBAGO",
+  "ISO (2-alpha)": "TT",
+  "ISO2 (3-Alpha)": "TTO",
+  "IANA Internet": ".tt",
+  "UN Vehicle": "TT",
+  "IOC Olympic": "TRI",
+  "UN\/ISO Numeric": 780,
+  "ITU Calling": "1-868"
+ },
+ {
+  "Country Name": "TUNISIA",
+  "ISO (2-alpha)": "TN",
+  "ISO2 (3-Alpha)": "TUN",
+  "IANA Internet": ".tn",
+  "UN Vehicle": "TN",
+  "IOC Olympic": "TUN",
+  "UN\/ISO Numeric": 788,
+  "ITU Calling": 216
+ },
+ {
+  "Country Name": "TURKEY",
+  "ISO (2-alpha)": "TR",
+  "ISO2 (3-Alpha)": "TUR",
+  "IANA Internet": ".tr",
+  "UN Vehicle": "TR",
+  "IOC Olympic": "TUR",
+  "UN\/ISO Numeric": 792,
+  "ITU Calling": 90
+ },
+ {
+  "Country Name": "TURKMENISTAN",
+  "ISO (2-alpha)": "TM",
+  "ISO2 (3-Alpha)": "TKM",
+  "IANA Internet": ".tm",
+  "UN Vehicle": "TM",
+  "IOC Olympic": "TKM",
+  "UN\/ISO Numeric": 795,
+  "ITU Calling": 993
+ },
+ {
+  "Country Name": "TURKS AND CAICOS ISLANDS",
+  "ISO (2-alpha)": "TC",
+  "ISO2 (3-Alpha)": "TCA",
+  "IANA Internet": ".tc",
+  "UN\/ISO Numeric": 796,
+  "ITU Calling": "1-649"
+ },
+ {
+  "Country Name": "TUVALU",
+  "ISO (2-alpha)": "TV",
+  "ISO2 (3-Alpha)": "TUV",
+  "IANA Internet": ".tv",
+  "IOC Olympic": "TUV",
+  "UN\/ISO Numeric": 798,
+  "ITU Calling": 688
+ },
+ {
+  "Country Name": "UGANDA",
+  "ISO (2-alpha)": "UG",
+  "ISO2 (3-Alpha)": "UGA",
+  "IANA Internet": ".ug",
+  "UN Vehicle": "EAU",
+  "IOC Olympic": "UGA",
+  "UN\/ISO Numeric": 800,
+  "ITU Calling": 256
+ },
+ {
+  "Country Name": "UKRAINE",
+  "ISO (2-alpha)": "UA",
+  "ISO2 (3-Alpha)": "UKR",
+  "IANA Internet": ".ua",
+  "UN Vehicle": "UA",
+  "IOC Olympic": "UKR",
+  "UN\/ISO Numeric": 804,
+  "ITU Calling": 380
+ },
+ {
+  "Country Name": "UNITED ARAB EMIRATES",
+  "ISO (2-alpha)": "AE",
+  "ISO2 (3-Alpha)": "ARE",
+  "IANA Internet": ".ae",
+  "IOC Olympic": "UAE",
+  "UN\/ISO Numeric": 784,
+  "ITU Calling": 971
+ },
+ {
+  "Country Name": "UNITED KINGDOM",
+  "ISO (2-alpha)": "GB",
+  "ISO2 (3-Alpha)": "GBR",
+  "IANA Internet": ".uk",
+  "IOC Olympic": "GBR",
+  "UN\/ISO Numeric": 826,
+  "ITU Calling": 44
+ },
+ {
+  "Country Name": "UNITED STATES",
+  "ISO (2-alpha)": "US",
+  "ISO2 (3-Alpha)": "USA",
+  "IANA Internet": ".us",
+  "UN Vehicle": "USA",
+  "IOC Olympic": "USA",
+  "UN\/ISO Numeric": 840,
+  "ITU Calling": 1
+ },
+ {
+  "Country Name": "UNITED STATES MINOR OUTLYING ISLANDS",
+  "ISO (2-alpha)": "UM",
+  "ISO2 (3-Alpha)": "UMI",
+  "IANA Internet": ".um",
+  "UN\/ISO Numeric": 581
+ },
+ {
+  "Country Name": "URUGUAY",
+  "ISO (2-alpha)": "UY",
+  "ISO2 (3-Alpha)": "URY",
+  "IANA Internet": ".uy",
+  "UN Vehicle": "ROU",
+  "IOC Olympic": "URU",
+  "UN\/ISO Numeric": 858,
+  "ITU Calling": 598
+ },
+ {
+  "Country Name": "UZBEKISTAN",
+  "ISO (2-alpha)": "UZ",
+  "ISO2 (3-Alpha)": "UZB",
+  "IANA Internet": ".uz",
+  "UN Vehicle": "UZ",
+  "IOC Olympic": "UZB",
+  "UN\/ISO Numeric": 860,
+  "ITU Calling": 998
+ },
+ {
+  "Country Name": "VANUATU",
+  "ISO (2-alpha)": "VU",
+  "ISO2 (3-Alpha)": "VUT",
+  "IANA Internet": ".vu",
+  "IOC Olympic": "VAN",
+  "UN\/ISO Numeric": 548,
+  "ITU Calling": 678
+ },
+ {
+  "Country Name": "VATICAN CITY (Holy See)",
+  "ISO (2-alpha)": "VA",
+  "ISO2 (3-Alpha)": "VAT",
+  "IANA Internet": ".va",
+  "UN Vehicle": "V",
+  "IOC Olympic": "VAT",
+  "UN\/ISO Numeric": 336,
+  "ITU Calling": 379
+ },
+ {
+  "Country Name": "VENEZUELA",
+  "ISO (2-alpha)": "VE",
+  "ISO2 (3-Alpha)": "VEN",
+  "IANA Internet": ".ve",
+  "UN Vehicle": "YV",
+  "IOC Olympic": "VEN",
+  "UN\/ISO Numeric": 862,
+  "ITU Calling": 58
+ },
+ {
+  "Country Name": "VIET NAM",
+  "ISO (2-alpha)": "VN",
+  "ISO2 (3-Alpha)": "VNM",
+  "IANA Internet": ".vn",
+  "UN Vehicle": "VN",
+  "IOC Olympic": "VIE",
+  "UN\/ISO Numeric": 704,
+  "ITU Calling": 84
+ },
+ {
+  "Country Name": "VIRGIN ISLANDS, BRITISH",
+  "ISO (2-alpha)": "VG",
+  "ISO2 (3-Alpha)": "VGB",
+  "IANA Internet": ".vg",
+  "UN Vehicle": "BVI",
+  "IOC Olympic": "IVB",
+  "UN\/ISO Numeric": 92,
+  "ITU Calling": "1-284"
+ },
+ {
+  "Country Name": "VIRGIN ISLANDS, U.S.",
+  "ISO (2-alpha)": "VI",
+  "ISO2 (3-Alpha)": "VIR",
+  "IANA Internet": ".vi",
+  "IOC Olympic": "ISV",
+  "UN\/ISO Numeric": 850,
+  "ITU Calling": "1-340"
+ },
+ {
+  "Country Name": "YUGOSLAVIA (Internet code still used)",
+  "IANA Internet": ".yu"
+ },
+ {
+  "Country Name": "WALLIS AND FUTUNA",
+  "ISO (2-alpha)": "WF",
+  "ISO2 (3-Alpha)": "WLF",
+  "IANA Internet": ".wf",
+  "UN\/ISO Numeric": 876,
+  "ITU Calling": 681
+ },
+ {
+  "Country Name": "WESTERN SAHARA (formerly Spanish Sahara)",
+  "ISO (2-alpha)": "EH",
+  "ISO2 (3-Alpha)": "ESH",
+  "IANA Internet": ".eh",
+  "UN\/ISO Numeric": 732
+ },
+ {
+  "Country Name": "YEMEN (Yemen Arab Republic)",
+  "ISO (2-alpha)": "YE",
+  "ISO2 (3-Alpha)": "YEM",
+  "IANA Internet": ".ye",
+  "UN Vehicle": "YAR",
+  "IOC Olympic": "YEM",
+  "UN\/ISO Numeric": 887,
+  "ITU Calling": 967
+ },
+ {
+  "Country Name": "ZAMBIA (formerly Northern Rhodesia)",
+  "ISO (2-alpha)": "ZM",
+  "ISO2 (3-Alpha)": "ZMB",
+  "IANA Internet": ".zm",
+  "UN Vehicle": "RNR",
+  "IOC Olympic": "ZAM",
+  "UN\/ISO Numeric": 894,
+  "ITU Calling": 260
+ },
+ {
+  "Country Name": "ZANZIBAR",
+  "UN Vehicle": "EAZ"
+ },
+ {
+  "Country Name": "ZIMBABWE",
+  "ISO (2-alpha)": "ZW",
+  "ISO2 (3-Alpha)": "ZWE",
+  "IANA Internet": ".zw",
+  "UN Vehicle": "ZW",
+  "IOC Olympic": "ZIM",
+  "UN\/ISO Numeric": 716,
+  "ITU Calling": 263
+ }
+]

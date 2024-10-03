@@ -8,7 +8,7 @@ import bodyParser from "body-parser";
 const app=express()
 dotenv.config()
 
-const PORT=process.env.PORT || PORT
+const PORT=process.env.PORT || 8000
 const BASE_URL = process.env.BASE_URL || "http://localhost:8000";
 const DATABASE_URL=process.env.DATABASE_URL ||"mongodb://localhost:27017"
 

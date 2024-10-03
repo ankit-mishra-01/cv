@@ -4,17 +4,17 @@ FROM node:18-alpine
 # Set the working directory inside the container
 WORKDIR /app
 
-# Copy the package.json and package-lock.json files
+# Copy package.json and package-lock.json
 COPY package*.json ./
 
-# Install the project dependencies
+# Install dependencies
 RUN npm install --production
 
-# Copy the rest of the project files to the container
+# Copy the rest of the project files
 COPY . .
 
-# Expose the port that your application will run on
+# Expose port 5000
 EXPOSE 5000
 
-# Define the command to start your Node.js app
+# Define the command to run your app
 CMD ["node", "server.js"]
